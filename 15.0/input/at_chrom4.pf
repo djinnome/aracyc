@@ -1,0 +1,4182 @@
+ID	AT4G33520
+NAME	AT4G33520
+PRODUCT-TYPE	P
+FUNCTION	ATPase, coupled to transmembrane movement of ions, phosphorylative mechanism
+//
+ID	AT4G25420
+NAME	AT4G25420
+PRODUCT-TYPE	P
+FUNCTION	gibberellin 20-oxidase
+//
+ID	AT4G15700
+NAME	AT4G15700
+PRODUCT-TYPE	P
+FUNCTION	arsenate reductase (glutaredoxin)
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G34250
+NAME	AT4G34250
+PRODUCT-TYPE	P
+FUNCTION	3-oxoacyl-[acyl-carrier protein] synthase
+FUNCTION	acyltransferase
+//
+ID	AT4G33440
+NAME	AT4G33440
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G33360
+NAME	AT4G33360
+PRODUCT-TYPE	P
+FUNCTION	3-beta-hydroxy-delta5-steroid dehydrogenase
+FUNCTION	GDP-mannose 4,6-dehydratase
+FUNCTION	UDP-glucose 4-epimerase
+FUNCTION	dTDP-glucose 4,6-dehydratase
+//
+ID	AT4G24450
+NAME	AT4G24450
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G13920
+NAME	AT4G13920
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G32470
+NAME	AT4G32470
+PRODUCT-TYPE	P
+FUNCTION	ubiquinol-cytochrome-c reductase
+//
+ID	AT4G23560
+NAME	AT4G23560
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G16270
+NAME	AT4G16270
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G08170
+NAME	AT4G08170
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G04930
+NAME	AT4G04930
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G13760
+NAME	AT4G13760
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G30690
+NAME	AT4G30690
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G22590
+NAME	AT4G22590
+PRODUCT-TYPE	P
+FUNCTION	trehalose-phosphatase
+//
+ID	AT4G12870
+NAME	AT4G12870
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G22753
+NAME	AT4G22753
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G11980
+NAME	AT4G11980
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G22756
+NAME	AT4G22756
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G05585
+NAME	AT4G05585
+PRODUCT-TYPE	P
+FUNCTION	adenylosuccinate synthase
+//
+ID	AT4G39980
+NAME	AT4G39980
+PRODUCT-TYPE	P
+FUNCTION	3-deoxy-7-phosphoheptulonate synthase
+//
+ID	AT4G18300
+NAME	AT4G18300
+PRODUCT-TYPE	P
+FUNCTION	nucleotidyltransferase
+//
+ID	AT4G35230
+NAME	AT4G35230
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G16600
+NAME	AT4G16600
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring hexosyl groups
+//
+ID	AT4G35150
+NAME	AT4G35150
+PRODUCT-TYPE	P
+FUNCTION	O-methyltransferase
+//
+ID	AT4G24620
+NAME	AT4G24620
+PRODUCT-TYPE	P
+FUNCTION	glucose-6-phosphate isomerase
+//
+ID	AT4G26160
+NAME	AT4G26160
+PRODUCT-TYPE	P
+FUNCTION	isomerase
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G23730
+NAME	AT4G23730
+PRODUCT-TYPE	P
+FUNCTION	aldose 1-epimerase
+//
+ID	AT4G17170
+NAME	AT4G17170
+PRODUCT-TYPE	P
+FUNCTION	GTPase
+//
+ID	AT4G15550
+NAME	AT4G15550
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G13930
+NAME	AT4G13930
+PRODUCT-TYPE	P
+FUNCTION	glycine hydroxymethyltransferase
+//
+ID	AT4G23570
+NAME	AT4G23570
+PRODUCT-TYPE	P
+FUNCTION	phosphoric monoester hydrolase
+//
+ID	AT4G17090
+NAME	AT4G17090
+PRODUCT-TYPE	P
+FUNCTION	beta-amylase
+//
+ID	AT4G31590
+NAME	AT4G31590
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G25434
+NAME	AT4G25434
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G23490
+NAME	AT4G23490
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G15390
+NAME	AT4G15390
+PRODUCT-TYPE	P
+FUNCTION	transferase
+//
+ID	AT4G13770
+NAME	AT4G13770
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD or NADH as one donor, and incorporation of one atom of oxygen
+//
+ID	AT4G12960
+NAME	AT4G12960
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G04860
+NAME	AT4G04860
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G06644
+NAME	AT4G06644
+PRODUCT-TYPE	P
+FUNCTION	4-diphosphocytidyl-2C-methyl-D-erythritol synthase
+//
+ID	AT4G14746
+NAME	AT4G14746
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G06565
+NAME	AT4G06565
+PRODUCT-TYPE	P
+FUNCTION	phenylalanine-tRNA ligase
+//
+ID	AT4G00110
+NAME	AT4G00110
+PRODUCT-TYPE	P
+FUNCTION	3-beta-hydroxy-delta5-steroid dehydrogenase
+FUNCTION	GDP-mannose 4,6-dehydratase
+FUNCTION	UDP-glucose 4-epimerase
+FUNCTION	dTDP-4-dehydrorhamnose reductase
+FUNCTION	dTDP-glucose 4,6-dehydratase
+//
+ID	AT4G34510
+NAME	AT4G34510
+PRODUCT-TYPE	P
+FUNCTION	3-oxoacyl-[acyl-carrier protein] synthase
+FUNCTION	acyltransferase
+//
+ID	AT4G28030
+NAME	AT4G28030
+PRODUCT-TYPE	P
+FUNCTION	N-acetyltransferase
+//
+ID	AT4G32810
+NAME	AT4G32810
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen
+//
+ID	AT4G24710
+NAME	AT4G24710
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G23900
+NAME	AT4G23900
+PRODUCT-TYPE	P
+FUNCTION	nucleoside-diphosphate kinase
+//
+ID	AT4G09320
+NAME	AT4G09320
+PRODUCT-TYPE	P
+FUNCTION	nucleoside-diphosphate kinase
+//
+ID	AT4G35160
+NAME	AT4G35160
+PRODUCT-TYPE	P
+FUNCTION	O-methyltransferase
+//
+ID	AT4G33540
+NAME	AT4G33540
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G26250
+NAME	AT4G26250
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring hexosyl groups
+//
+ID	AT4G23820
+NAME	AT4G23820
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G14910
+NAME	AT4G14910
+PRODUCT-TYPE	P
+FUNCTION	imidazoleglycerol-phosphate dehydratase
+//
+ID	AT4G22930
+NAME	AT4G22930
+PRODUCT-TYPE	P
+FUNCTION	dihydroorotase
+FUNCTION	hydrolase, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides
+//
+ID	AT4G17260
+NAME	AT4G17260
+PRODUCT-TYPE	P
+FUNCTION	lactate dehydrogenase
+//
+ID	AT4G31760
+NAME	AT4G31760
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G30950
+NAME	AT4G30950
+PRODUCT-TYPE	P
+FUNCTION	omega-6 fatty acid desaturase
+//
+ID	AT4G25280
+NAME	AT4G25280
+PRODUCT-TYPE	P
+FUNCTION	adenylate kinase
+FUNCTION	shikimate kinase
+FUNCTION	thymidylate kinase
+//
+ID	AT4G23660
+NAME	AT4G23660
+PRODUCT-TYPE	P
+FUNCTION	prenyltransferase
+FUNCTION	protoheme IX farnesyltransferase
+//
+ID	AT4G17180
+NAME	AT4G17180
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G15560
+NAME	AT4G15560
+PRODUCT-TYPE	P
+FUNCTION	1-deoxy-D-xylulose-5-phosphate synthase
+//
+ID	AT4G13940
+NAME	AT4G13940
+PRODUCT-TYPE	P
+FUNCTION	adenosylhomocysteinase
+FUNCTION	hydroxymethylbilane synthase
+FUNCTION	oxidoreductase, acting on the CH-OH group of donors, NAD or NADP as acceptor
+//
+ID	AT4G21960
+NAME	AT4G21960
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G15480
+NAME	AT4G15480
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G04950
+NAME	AT4G04950
+PRODUCT-TYPE	P
+FUNCTION	isomerase
+//
+ID	AT4G13780
+NAME	AT4G13780
+PRODUCT-TYPE	P
+FUNCTION	isoleucine-tRNA ligase
+FUNCTION	methionine-tRNA ligase
+FUNCTION	phenylalanine-tRNA ligase
+FUNCTION	valine-tRNA ligase
+//
+ID	AT4G06490
+NAME	AT4G06490
+PRODUCT-TYPE	P
+FUNCTION	transferase
+//
+ID	AT4G04870
+NAME	AT4G04870
+PRODUCT-TYPE	P
+FUNCTION	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+//
+ID	AT4G20990
+NAME	AT4G20990
+PRODUCT-TYPE	P
+FUNCTION	carbonate dehydratase
+//
+ID	AT4G12890
+NAME	AT4G12890
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G04955
+NAME	AT4G04955
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G06497
+NAME	AT4G06497
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G00040
+NAME	AT4G00040
+PRODUCT-TYPE	P
+FUNCTION	3-oxoacyl-[acyl-carrier protein] synthase
+FUNCTION	acyltransferase
+//
+ID	AT4G29010
+NAME	AT4G29010
+PRODUCT-TYPE	P
+FUNCTION	enoyl-CoA hydratase
+FUNCTION	long-chain-3-hydroxyacyl-CoA dehydrogenase
+//
+ID	AT4G36220
+NAME	AT4G36220
+PRODUCT-TYPE	P
+FUNCTION	ferulate 5-hydroxylase
+//
+ID	AT4G36140
+NAME	AT4G36140
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G34520
+NAME	AT4G34520
+PRODUCT-TYPE	P
+FUNCTION	acyltransferase
+FUNCTION	fatty acid elongase
+//
+ID	AT4G26420
+NAME	AT4G26420
+PRODUCT-TYPE	P
+FUNCTION	S-adenosylmethionine-dependent methyltransferase
+//
+ID	AT4G16700
+NAME	AT4G16700
+PRODUCT-TYPE	P
+FUNCTION	phosphatidylserine decarboxylase
+//
+ID	AT4G35250
+NAME	AT4G35250
+PRODUCT-TYPE	P
+FUNCTION	3-beta-hydroxy-delta5-steroid dehydrogenase
+FUNCTION	UDP-glucose 4-epimerase
+FUNCTION	dihydrodipicolinate reductase
+//
+ID	AT4G34440
+NAME	AT4G34440
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G18240
+NAME	AT4G18240
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G34360
+NAME	AT4G34360
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G27070
+NAME	AT4G27070
+PRODUCT-TYPE	P
+FUNCTION	tryptophan synthase
+//
+ID	AT4G35090
+NAME	AT4G35090
+PRODUCT-TYPE	P
+FUNCTION	catalase
+//
+ID	AT4G15650
+NAME	AT4G15650
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G32580
+NAME	AT4G32580
+PRODUCT-TYPE	P
+FUNCTION	isomerase
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G30960
+NAME	AT4G30960
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G17190
+NAME	AT4G17190
+PRODUCT-TYPE	P
+FUNCTION	dimethylallyltranstransferase
+FUNCTION	geranyltranstransferase
+//
+ID	AT4G23590
+NAME	AT4G23590
+PRODUCT-TYPE	P
+FUNCTION	1-aminocyclopropane-1-carboxylate synthase
+FUNCTION	histidinol-phosphate transaminase
+FUNCTION	tyrosine transaminase
+//
+ID	AT4G15490
+NAME	AT4G15490
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G14680
+NAME	AT4G14680
+PRODUCT-TYPE	P
+FUNCTION	sulfate adenylyltransferase (ATP)
+//
+ID	AT4G04960
+NAME	AT4G04960
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G04880
+NAME	AT4G04880
+PRODUCT-TYPE	P
+FUNCTION	adenosine deaminase
+//
+ID	AT4G06584
+NAME	AT4G06584
+PRODUCT-TYPE	P
+FUNCTION	acetolactate synthase
+//
+ID	AT4G37200
+NAME	AT4G37200
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on sulfur group of donors, disulfide as acceptor
+//
+ID	AT4G35500
+NAME	AT4G35500
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G35420
+NAME	AT4G35420
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on CH-OH group of donors
+//
+ID	AT4G28130
+NAME	AT4G28130
+PRODUCT-TYPE	P
+FUNCTION	diacylglycerol kinase
+//
+ID	AT4G26510
+NAME	AT4G26510
+PRODUCT-TYPE	P
+FUNCTION	uracil phosphoribosyltransferase
+FUNCTION	uridine kinase
+//
+ID	AT4G25700
+NAME	AT4G25700
+PRODUCT-TYPE	P
+FUNCTION	beta-carotene hydroxylase
+//
+ID	AT4G09500
+NAME	AT4G09500
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G16710
+NAME	AT4G16710
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G35260
+NAME	AT4G35260
+PRODUCT-TYPE	P
+FUNCTION	3-isopropylmalate dehydrogenase
+FUNCTION	isocitrate dehydrogenase (NAD+)
+FUNCTION	isocitrate dehydrogenase (NADP+)
+//
+ID	AT4G24730
+NAME	AT4G24730
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G23920
+NAME	AT4G23920
+PRODUCT-TYPE	P
+FUNCTION	UDP-glucose 4-epimerase
+//
+ID	AT4G27080
+NAME	AT4G27080
+PRODUCT-TYPE	P
+FUNCTION	isomerase
+//
+ID	AT4G26270
+NAME	AT4G26270
+PRODUCT-TYPE	P
+FUNCTION	6-phosphofructokinase
+//
+ID	AT4G24650
+NAME	AT4G24650
+PRODUCT-TYPE	P
+FUNCTION	adenylate dimethylallyltransferase
+//
+ID	AT4G17360
+NAME	AT4G17360
+PRODUCT-TYPE	P
+FUNCTION	formyltetrahydrofolate deformylase
+FUNCTION	phosphoribosylglycinamide formyltransferase
+//
+ID	AT4G15740
+NAME	AT4G15740
+PRODUCT-TYPE	P
+FUNCTION	N-methyltransferase
+//
+ID	AT4G14930
+NAME	AT4G14930
+PRODUCT-TYPE	P
+FUNCTION	acid phosphatase
+//
+ID	AT4G15660
+NAME	AT4G15660
+PRODUCT-TYPE	P
+FUNCTION	arsenate reductase (glutaredoxin)
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G32590
+NAME	AT4G32590
+PRODUCT-TYPE	P
+FUNCTION	racemase and epimerase, acting on amino acids and derivatives
+//
+ID	AT4G31780
+NAME	AT4G31780
+PRODUCT-TYPE	P
+FUNCTION	1,2-diacylglycerol 3-beta-galactosyltransferase
+FUNCTION	UDP-glycosyltransferase
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G22870
+NAME	AT4G22870
+PRODUCT-TYPE	P
+FUNCTION	leucoanthocyanidin dioxygenase
+//
+ID	AT4G04970
+NAME	AT4G04970
+PRODUCT-TYPE	P
+FUNCTION	1,3-beta-glucan synthase
+//
+ID	AT4G10020
+NAME	AT4G10020
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G00300
+NAME	AT4G00300
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G00060
+NAME	AT4G00060
+PRODUCT-TYPE	P
+FUNCTION	nucleotidyltransferase
+//
+ID	AT4G36400
+NAME	AT4G36400
+PRODUCT-TYPE	P
+FUNCTION	glycolate oxidase
+//
+ID	AT4G28220
+NAME	AT4G28220
+PRODUCT-TYPE	P
+FUNCTION	NADH dehydrogenase
+FUNCTION	disulfide oxidoreductase
+//
+ID	AT4G37050
+NAME	AT4G37050
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G33810
+NAME	AT4G33810
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G26520
+NAME	AT4G26520
+PRODUCT-TYPE	P
+FUNCTION	fructose-bisphosphate aldolase
+//
+ID	AT4G16800
+NAME	AT4G16800
+PRODUCT-TYPE	P
+FUNCTION	enoyl-CoA hydratase
+//
+ID	AT4G09510
+NAME	AT4G09510
+PRODUCT-TYPE	P
+FUNCTION	beta-fructofuranosidase
+//
+ID	AT4G34540
+NAME	AT4G34540
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on NADH or NADPH
+//
+ID	AT4G28060
+NAME	AT4G28060
+PRODUCT-TYPE	P
+FUNCTION	cytochrome-c oxidase
+//
+ID	AT4G27250
+NAME	AT4G27250
+PRODUCT-TYPE	P
+FUNCTION	cinnamyl-alcohol dehydrogenase
+FUNCTION	dihydrokaempferol 4-reductase
+//
+ID	AT4G18340
+NAME	AT4G18340
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G36080
+NAME	AT4G36080
+PRODUCT-TYPE	P
+FUNCTION	inositol or phosphatidylinositol kinase
+//
+ID	AT4G33650
+NAME	AT4G33650
+PRODUCT-TYPE	P
+FUNCTION	GTPase
+//
+ID	AT4G32840
+NAME	AT4G32840
+PRODUCT-TYPE	P
+FUNCTION	6-phosphofructokinase
+//
+ID	AT4G26360
+NAME	AT4G26360
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G26280
+NAME	AT4G26280
+PRODUCT-TYPE	P
+FUNCTION	sulfotransferase
+//
+ID	AT4G23850
+NAME	AT4G23850
+PRODUCT-TYPE	P
+FUNCTION	long-chain-fatty-acid-CoA ligase
+//
+ID	AT4G18180
+NAME	AT4G18180
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G17370
+NAME	AT4G17370
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G14940
+NAME	AT4G14940
+PRODUCT-TYPE	P
+FUNCTION	amine oxidase
+//
+ID	AT4G31870
+NAME	AT4G31870
+PRODUCT-TYPE	P
+FUNCTION	glutathione peroxidase
+//
+ID	AT4G15670
+NAME	AT4G15670
+PRODUCT-TYPE	P
+FUNCTION	arsenate reductase (glutaredoxin)
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G31790
+NAME	AT4G31790
+PRODUCT-TYPE	P
+FUNCTION	diphthine synthase
+FUNCTION	methyltransferase
+//
+ID	AT4G22880
+NAME	AT4G22880
+PRODUCT-TYPE	P
+FUNCTION	leucoanthocyanidin dioxygenase
+//
+ID	AT4G13890
+NAME	AT4G13890
+PRODUCT-TYPE	P
+FUNCTION	glycine hydroxymethyltransferase
+//
+ID	AT4G02010
+NAME	AT4G02010
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G10030
+NAME	AT4G10030
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G01040
+NAME	AT4G01040
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G39000
+NAME	AT4G39000
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G38030
+NAME	AT4G38030
+PRODUCT-TYPE	P
+FUNCTION	lyase
+//
+ID	AT4G29120
+NAME	AT4G29120
+PRODUCT-TYPE	P
+FUNCTION	disulfide oxidoreductase
+FUNCTION	phosphogluconate dehydrogenase (decarboxylating)
+FUNCTION	pyrroline-5-carboxylate reductase
+//
+ID	AT4G37140
+NAME	AT4G37140
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on ester bonds
+//
+ID	AT4G34710
+NAME	AT4G34710
+PRODUCT-TYPE	P
+FUNCTION	arginine decarboxylase
+//
+ID	AT4G29040
+NAME	AT4G29040
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G26610
+NAME	AT4G26610
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G37060
+NAME	AT4G37060
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G36250
+NAME	AT4G36250
+PRODUCT-TYPE	P
+FUNCTION	1-pyrroline-5-carboxylate dehydrogenase
+FUNCTION	aldehyde dehydrogenase
+//
+ID	AT4G33820
+NAME	AT4G33820
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G26530
+NAME	AT4G26530
+PRODUCT-TYPE	P
+FUNCTION	fructose-bisphosphate aldolase
+//
+ID	AT4G09520
+NAME	AT4G09520
+PRODUCT-TYPE	P
+FUNCTION	phosphoglycerate mutase
+//
+ID	AT4G35360
+NAME	AT4G35360
+PRODUCT-TYPE	P
+FUNCTION	pantothenate kinase
+//
+ID	AT4G28070
+NAME	AT4G28070
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G24830
+NAME	AT4G24830
+PRODUCT-TYPE	P
+FUNCTION	argininosuccinate synthase
+//
+ID	AT4G18350
+NAME	AT4G18350
+PRODUCT-TYPE	P
+FUNCTION	9-cis-epoxycarotenoid dioxygenase
+//
+ID	AT4G16730
+NAME	AT4G16730
+PRODUCT-TYPE	P
+FUNCTION	lyase
+//
+ID	AT4G32850
+NAME	AT4G32850
+PRODUCT-TYPE	P
+FUNCTION	nucleotidyltransferase
+FUNCTION	polynucleotide adenylyltransferase
+//
+ID	AT4G23940
+NAME	AT4G23940
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G18270
+NAME	AT4G18270
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G33580
+NAME	AT4G33580
+PRODUCT-TYPE	P
+FUNCTION	carbonate dehydratase
+//
+ID	AT4G32770
+NAME	AT4G32770
+PRODUCT-TYPE	P
+FUNCTION	tocopherol cyclase
+//
+ID	AT4G24670
+NAME	AT4G24670
+PRODUCT-TYPE	P
+FUNCTION	carbon-sulfur lyase
+FUNCTION	histidinol-phosphate transaminase
+//
+ID	AT4G15760
+NAME	AT4G15760
+PRODUCT-TYPE	P
+FUNCTION	monooxygenase
+//
+ID	AT4G15680
+NAME	AT4G15680
+PRODUCT-TYPE	P
+FUNCTION	arsenate reductase (glutaredoxin)
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G08390
+NAME	AT4G08390
+PRODUCT-TYPE	P
+FUNCTION	L-ascorbate peroxidase
+//
+ID	AT4G15765
+NAME	AT4G15765
+PRODUCT-TYPE	P
+FUNCTION	monooxygenase
+//
+ID	AT4G11010
+NAME	AT4G11010
+PRODUCT-TYPE	P
+FUNCTION	nucleoside-diphosphate kinase
+//
+ID	AT4G10120
+NAME	AT4G10120
+PRODUCT-TYPE	P
+FUNCTION	sucrose-phosphate synthase
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G00400
+NAME	AT4G00400
+PRODUCT-TYPE	P
+FUNCTION	1-acylglycerol-3-phosphate O-acyltransferase
+//
+ID	AT4G01210
+NAME	AT4G01210
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G01130
+NAME	AT4G01130
+PRODUCT-TYPE	P
+FUNCTION	carboxylic ester hydrolase
+//
+ID	AT4G00240
+NAME	AT4G00240
+PRODUCT-TYPE	P
+FUNCTION	phospholipase D
+//
+ID	AT4G39010
+NAME	AT4G39010
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G29210
+NAME	AT4G29210
+PRODUCT-TYPE	P
+FUNCTION	gamma-glutamyltransferase
+//
+ID	AT4G38040
+NAME	AT4G38040
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G29130
+NAME	AT4G29130
+PRODUCT-TYPE	P
+FUNCTION	hexokinase
+//
+ID	AT4G28320
+NAME	AT4G28320
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G19410
+NAME	AT4G19410
+PRODUCT-TYPE	P
+FUNCTION	carboxylic ester hydrolase
+//
+ID	AT4G37150
+NAME	AT4G37150
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on ester bonds
+//
+ID	AT4G34720
+NAME	AT4G34720
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+FUNCTION	hydrogen-transporting ATPase, rotational mechanism
+//
+ID	AT4G33910
+NAME	AT4G33910
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G26620
+NAME	AT4G26620
+PRODUCT-TYPE	P
+FUNCTION	sucrose alpha-glucosidase
+//
+ID	AT4G25810
+NAME	AT4G25810
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G16900
+NAME	AT4G16900
+PRODUCT-TYPE	P
+FUNCTION	kinase
+FUNCTION	transferase, transferring phosphorus-containing groups
+//
+ID	AT4G37070
+NAME	AT4G37070
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G35450
+NAME	AT4G35450
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G34640
+NAME	AT4G34640
+PRODUCT-TYPE	P
+FUNCTION	farnesyl-diphosphate farnesyltransferase
+//
+ID	AT4G33830
+NAME	AT4G33830
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G26540
+NAME	AT4G26540
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G25730
+NAME	AT4G25730
+PRODUCT-TYPE	P
+FUNCTION	methyltransferase
+//
+ID	AT4G18440
+NAME	AT4G18440
+PRODUCT-TYPE	P
+FUNCTION	adenylosuccinate lyase
+FUNCTION	fumarate hydratase
+//
+ID	AT4G16820
+NAME	AT4G16820
+PRODUCT-TYPE	P
+FUNCTION	triacylglycerol lipase
+//
+ID	AT4G27270
+NAME	AT4G27270
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on NADH or NADPH, quinone or similar compound as acceptor
+//
+ID	AT4G25650
+NAME	AT4G25650
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G19170
+NAME	AT4G19170
+PRODUCT-TYPE	P
+FUNCTION	9-cis-epoxycarotenoid dioxygenase
+//
+ID	AT4G18360
+NAME	AT4G18360
+PRODUCT-TYPE	P
+FUNCTION	glutamate synthase
+FUNCTION	glycolate oxidase
+//
+ID	AT4G07830
+NAME	AT4G07830
+PRODUCT-TYPE	P
+FUNCTION	adenylosuccinate synthase
+//
+ID	AT4G08640
+NAME	AT4G08640
+PRODUCT-TYPE	P
+FUNCTION	ferredoxin hydrogenase
+//
+ID	AT4G34480
+NAME	AT4G34480
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G33670
+NAME	AT4G33670
+PRODUCT-TYPE	P
+FUNCTION	aldo-keto reductase
+//
+ID	AT4G25570
+NAME	AT4G25570
+PRODUCT-TYPE	P
+FUNCTION	carbon-monoxide oxygenase
+//
+ID	AT4G17470
+NAME	AT4G17470
+PRODUCT-TYPE	P
+FUNCTION	palmitoyl-(protein) hydrolase
+//
+ID	AT4G16580
+NAME	AT4G16580
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G15690
+NAME	AT4G15690
+PRODUCT-TYPE	P
+FUNCTION	arsenate reductase (glutaredoxin)
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G14880
+NAME	AT4G14880
+PRODUCT-TYPE	P
+FUNCTION	cysteine synthase
+//
+ID	AT4G13990
+NAME	AT4G13990
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G35295
+NAME	AT4G35295
+PRODUCT-TYPE	P
+FUNCTION	homoserine kinase
+//
+ID	AT4G02030
+NAME	AT4G02030
+PRODUCT-TYPE	P
+FUNCTION	monooxygenase
+//
+ID	AT4G10050
+NAME	AT4G10050
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G29220
+NAME	AT4G29220
+PRODUCT-TYPE	P
+FUNCTION	6-phosphofructokinase
+//
+ID	AT4G28410
+NAME	AT4G28410
+PRODUCT-TYPE	P
+FUNCTION	transaminase
+//
+ID	AT4G27600
+NAME	AT4G27600
+PRODUCT-TYPE	P
+FUNCTION	ribokinase
+//
+ID	AT4G36430
+NAME	AT4G36430
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G25900
+NAME	AT4G25900
+PRODUCT-TYPE	P
+FUNCTION	aldose 1-epimerase
+//
+ID	AT4G19420
+NAME	AT4G19420
+PRODUCT-TYPE	P
+FUNCTION	carboxylic ester hydrolase
+//
+ID	AT4G27440
+NAME	AT4G27440
+PRODUCT-TYPE	P
+FUNCTION	protochlorophyllide reductase
+//
+ID	AT4G25820
+NAME	AT4G25820
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G35460
+NAME	AT4G35460
+PRODUCT-TYPE	P
+FUNCTION	thioredoxin-disulfide reductase
+//
+ID	AT4G34650
+NAME	AT4G34650
+PRODUCT-TYPE	P
+FUNCTION	farnesyl-diphosphate farnesyltransferase
+//
+ID	AT4G33840
+NAME	AT4G33840
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G34570
+NAME	AT4G34570
+PRODUCT-TYPE	P
+FUNCTION	dihydrofolate reductase
+FUNCTION	thymidylate synthase
+//
+ID	AT4G33760
+NAME	AT4G33760
+PRODUCT-TYPE	P
+FUNCTION	asparagine-tRNA ligase
+FUNCTION	aspartate-tRNA ligase
+FUNCTION	lysine-tRNA ligase
+FUNCTION	phenylalanine-tRNA ligase
+//
+ID	AT4G19180
+NAME	AT4G19180
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G15940
+NAME	AT4G15940
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G33680
+NAME	AT4G33680
+PRODUCT-TYPE	P
+FUNCTION	transaminase
+//
+ID	AT4G26390
+NAME	AT4G26390
+PRODUCT-TYPE	P
+FUNCTION	pyruvate kinase
+//
+ID	AT4G17480
+NAME	AT4G17480
+PRODUCT-TYPE	P
+FUNCTION	palmitoyl-(protein) hydrolase
+//
+ID	AT4G07760
+NAME	AT4G07760
+PRODUCT-TYPE	P
+FUNCTION	transferase
+//
+ID	AT4G32790
+NAME	AT4G32790
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G16590
+NAME	AT4G16590
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+FUNCTION	glucosyltransferase
+//
+ID	AT4G17483
+NAME	AT4G17483
+PRODUCT-TYPE	P
+FUNCTION	palmitoyl-(protein) hydrolase
+//
+ID	AT4G02120
+NAME	AT4G02120
+PRODUCT-TYPE	P
+FUNCTION	CTP synthase
+//
+ID	AT4G11030
+NAME	AT4G11030
+PRODUCT-TYPE	P
+FUNCTION	long-chain-fatty-acid-CoA ligase
+//
+ID	AT4G01070
+NAME	AT4G01070
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G39110
+NAME	AT4G39110
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G38300
+NAME	AT4G38300
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G38220
+NAME	AT4G38220
+PRODUCT-TYPE	P
+FUNCTION	aminoacylase
+FUNCTION	succinyl-diaminopimelate desuccinylase
+//
+ID	AT4G34900
+NAME	AT4G34900
+PRODUCT-TYPE	P
+FUNCTION	3-deoxy-7-phosphoheptulonate synthase
+FUNCTION	xanthine dehydrogenase
+//
+ID	AT4G28420
+NAME	AT4G28420
+PRODUCT-TYPE	P
+FUNCTION	1-aminocyclopropane-1-carboxylate synthase
+FUNCTION	histidinol-phosphate transaminase
+FUNCTION	tyrosine transaminase
+//
+ID	AT4G35630
+NAME	AT4G35630
+PRODUCT-TYPE	P
+FUNCTION	transaminase
+//
+ID	AT4G08900
+NAME	AT4G08900
+PRODUCT-TYPE	P
+FUNCTION	agmatinase
+FUNCTION	arginase
+//
+ID	AT4G36360
+NAME	AT4G36360
+PRODUCT-TYPE	P
+FUNCTION	beta-galactosidase
+//
+ID	AT4G34740
+NAME	AT4G34740
+PRODUCT-TYPE	P
+FUNCTION	amidophosphoribosyltransferase
+//
+ID	AT4G16920
+NAME	AT4G16920
+PRODUCT-TYPE	P
+FUNCTION	carbamate kinase
+//
+ID	AT4G33850
+NAME	AT4G33850
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G18460
+NAME	AT4G18460
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on ester bonds
+//
+ID	AT4G24860
+NAME	AT4G24860
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G16760
+NAME	AT4G16760
+PRODUCT-TYPE	P
+FUNCTION	acyl-CoA oxidase
+//
+ID	AT4G24780
+NAME	AT4G24780
+PRODUCT-TYPE	P
+FUNCTION	pectate lyase
+//
+ID	AT4G15870
+NAME	AT4G15870
+PRODUCT-TYPE	P
+FUNCTION	lyase
+//
+ID	AT4G31990
+NAME	AT4G31990
+PRODUCT-TYPE	P
+FUNCTION	aspartate transaminase
+//
+ID	AT4G25835
+NAME	AT4G25835
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G16765
+NAME	AT4G16765
+PRODUCT-TYPE	P
+FUNCTION	isopenicillin-N synthase
+FUNCTION	oxidoreductase
+//
+ID	AT4G15955
+NAME	AT4G15955
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G21000
+NAME	AT4G21000
+PRODUCT-TYPE	P
+FUNCTION	carbonate dehydratase
+//
+ID	AT4G02130
+NAME	AT4G02130
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring hexosyl groups
+//
+ID	AT4G00190
+NAME	AT4G00190
+PRODUCT-TYPE	P
+FUNCTION	pectinesterase
+//
+ID	AT4G39120
+NAME	AT4G39120
+PRODUCT-TYPE	P
+FUNCTION	inositol or phosphatidylinositol phosphatase
+//
+ID	AT4G38310
+NAME	AT4G38310
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G36610
+NAME	AT4G36610
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G36530
+NAME	AT4G36530
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G34910
+NAME	AT4G34910
+PRODUCT-TYPE	P
+FUNCTION	adenylosuccinate synthase
+//
+ID	AT4G18710
+NAME	AT4G18710
+PRODUCT-TYPE	P
+FUNCTION	glycogen synthase kinase 3
+//
+ID	AT4G35640
+NAME	AT4G35640
+PRODUCT-TYPE	P
+FUNCTION	serine O-acetyltransferase
+//
+ID	AT4G25840
+NAME	AT4G25840
+PRODUCT-TYPE	P
+FUNCTION	phosphoglycolate phosphatase
+//
+ID	AT4G18550
+NAME	AT4G18550
+PRODUCT-TYPE	P
+FUNCTION	triacylglycerol lipase
+//
+ID	AT4G33860
+NAME	AT4G33860
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G16770
+NAME	AT4G16770
+PRODUCT-TYPE	P
+FUNCTION	isopenicillin-N synthase
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G15960
+NAME	AT4G15960
+PRODUCT-TYPE	P
+FUNCTION	epoxide hydrolase
+//
+ID	AT4G16690
+NAME	AT4G16690
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G30000
+NAME	AT4G30000
+PRODUCT-TYPE	P
+FUNCTION	dihydropteroate synthase
+//
+ID	AT4G20200
+NAME	AT4G20200
+PRODUCT-TYPE	P
+FUNCTION	lyase
+//
+ID	AT4G02300
+NAME	AT4G02300
+PRODUCT-TYPE	P
+FUNCTION	pectinesterase
+//
+ID	AT4G00600
+NAME	AT4G00600
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G10320
+NAME	AT4G10320
+PRODUCT-TYPE	P
+FUNCTION	isoleucine-tRNA ligase
+FUNCTION	leucine-tRNA ligase
+FUNCTION	methionine-tRNA ligase
+FUNCTION	valine-tRNA ligase
+//
+ID	AT4G11050
+NAME	AT4G11050
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G39210
+NAME	AT4G39210
+PRODUCT-TYPE	P
+FUNCTION	glucose-1-phosphate adenylyltransferase
+//
+ID	AT4G38240
+NAME	AT4G38240
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G35810
+NAME	AT4G35810
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G26900
+NAME	AT4G26900
+PRODUCT-TYPE	P
+FUNCTION	imidazoleglycerol phosphate synthase
+//
+ID	AT4G34920
+NAME	AT4G34920
+PRODUCT-TYPE	P
+FUNCTION	phospholipase C
+//
+ID	AT4G29250
+NAME	AT4G29250
+PRODUCT-TYPE	P
+FUNCTION	transferase
+//
+ID	AT4G37270
+NAME	AT4G37270
+PRODUCT-TYPE	P
+FUNCTION	copper-exporting ATPase
+//
+ID	AT4G35650
+NAME	AT4G35650
+PRODUCT-TYPE	P
+FUNCTION	3-isopropylmalate dehydrogenase
+FUNCTION	isocitrate dehydrogenase (NAD+)
+FUNCTION	isocitrate dehydrogenase (NADP+)
+//
+ID	AT4G34840
+NAME	AT4G34840
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G27550
+NAME	AT4G27550
+PRODUCT-TYPE	P
+FUNCTION	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G36380
+NAME	AT4G36380
+PRODUCT-TYPE	P
+FUNCTION	steroid hydroxylase
+//
+ID	AT4G33870
+NAME	AT4G33870
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G18480
+NAME	AT4G18480
+PRODUCT-TYPE	P
+FUNCTION	magnesium chelatase
+//
+ID	AT4G33790
+NAME	AT4G33790
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on the CH-CH group of donors
+//
+ID	AT4G23990
+NAME	AT4G23990
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G13000
+NAME	AT4G13000
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G20210
+NAME	AT4G20210
+PRODUCT-TYPE	P
+FUNCTION	lyase
+//
+ID	AT4G20050
+NAME	AT4G20050
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G11060
+NAME	AT4G11060
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G03205
+NAME	AT4G03205
+PRODUCT-TYPE	P
+FUNCTION	coproporphyrinogen oxidase
+//
+ID	AT4G00290
+NAME	AT4G00290
+PRODUCT-TYPE	P
+FUNCTION	copper-exporting ATPase
+FUNCTION	tetrahydromethanopterin S-methyltransferase
+//
+ID	AT4G37520
+NAME	AT4G37520
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G35820
+NAME	AT4G35820
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G26910
+NAME	AT4G26910
+PRODUCT-TYPE	P
+FUNCTION	dihydrolipoyllysine-residue succinyltransferase
+//
+ID	AT4G09900
+NAME	AT4G09900
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G34930
+NAME	AT4G34930
+PRODUCT-TYPE	P
+FUNCTION	phospholipase C
+//
+ID	AT4G29260
+NAME	AT4G29260
+PRODUCT-TYPE	P
+FUNCTION	acid phosphatase
+//
+ID	AT4G26830
+NAME	AT4G26830
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G19540
+NAME	AT4G19540
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G36470
+NAME	AT4G36470
+PRODUCT-TYPE	P
+FUNCTION	S-adenosylmethionine-dependent methyltransferase
+//
+ID	AT4G34850
+NAME	AT4G34850
+PRODUCT-TYPE	P
+FUNCTION	3-oxoacyl-[acyl-carrier protein] synthase
+FUNCTION	acyltransferase
+//
+ID	AT4G29180
+NAME	AT4G29180
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G27560
+NAME	AT4G27560
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G19460
+NAME	AT4G19460
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G09740
+NAME	AT4G09740
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G08930
+NAME	AT4G08930
+PRODUCT-TYPE	P
+FUNCTION	isomerase
+//
+ID	AT4G27480
+NAME	AT4G27480
+PRODUCT-TYPE	P
+FUNCTION	acetylglucosaminyltransferase
+//
+ID	AT4G19380
+NAME	AT4G19380
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G08850
+NAME	AT4G08850
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G08770
+NAME	AT4G08770
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G07960
+NAME	AT4G07960
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G15980
+NAME	AT4G15980
+PRODUCT-TYPE	P
+FUNCTION	pectinesterase
+//
+ID	AT4G13010
+NAME	AT4G13010
+PRODUCT-TYPE	P
+FUNCTION	L-threonine 3-dehydrogenase
+FUNCTION	alcohol dehydrogenase, zinc-dependent
+//
+ID	AT4G03210
+NAME	AT4G03210
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+FUNCTION	xyloglucan:xyloglucosyl transferase
+//
+ID	AT4G10500
+NAME	AT4G10500
+PRODUCT-TYPE	P
+FUNCTION	isopenicillin-N synthase
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G02320
+NAME	AT4G02320
+PRODUCT-TYPE	P
+FUNCTION	pectinesterase
+//
+ID	AT4G11230
+NAME	AT4G11230
+PRODUCT-TYPE	P
+FUNCTION	superoxide-generating NADPH oxidase
+//
+ID	AT4G03050
+NAME	AT4G03050
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G00620
+NAME	AT4G00620
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G10260
+NAME	AT4G10260
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G01190
+NAME	AT4G01190
+PRODUCT-TYPE	P
+FUNCTION	1-phosphatidylinositol-4-phosphate 5-kinase
+//
+ID	AT4G38500
+NAME	AT4G38500
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G39230
+NAME	AT4G39230
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on NADH or NADPH
+//
+ID	AT4G37530
+NAME	AT4G37530
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G19710
+NAME	AT4G19710
+PRODUCT-TYPE	P
+FUNCTION	aspartate kinase
+FUNCTION	homoserine dehydrogenase
+//
+ID	AT4G35830
+NAME	AT4G35830
+PRODUCT-TYPE	P
+FUNCTION	3-isopropylmalate dehydratase
+FUNCTION	aconitate hydratase
+FUNCTION	homoaconitate hydratase
+FUNCTION	hydro-lyase
+//
+ID	AT4G29270
+NAME	AT4G29270
+PRODUCT-TYPE	P
+FUNCTION	acid phosphatase
+//
+ID	AT4G36480
+NAME	AT4G36480
+PRODUCT-TYPE	P
+FUNCTION	8-amino-7-oxononanoate synthase
+FUNCTION	serine C-palmitoyltransferase
+FUNCTION	transaminase
+//
+ID	AT4G35670
+NAME	AT4G35670
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G34860
+NAME	AT4G34860
+PRODUCT-TYPE	P
+FUNCTION	beta-fructofuranosidase
+//
+ID	AT4G27570
+NAME	AT4G27570
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G09750
+NAME	AT4G09750
+PRODUCT-TYPE	P
+FUNCTION	alcohol dehydrogenase
+FUNCTION	protochlorophyllide reductase
+//
+ID	AT4G17770
+NAME	AT4G17770
+PRODUCT-TYPE	P
+FUNCTION	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G09670
+NAME	AT4G09670
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G28706
+NAME	AT4G28706
+PRODUCT-TYPE	P
+FUNCTION	kinase
+FUNCTION	ribokinase
+//
+ID	AT4G17690
+NAME	AT4G17690
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G08780
+NAME	AT4G08780
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G21200
+NAME	AT4G21200
+PRODUCT-TYPE	P
+FUNCTION	gibberellin 20-oxidase
+//
+ID	AT4G20230
+NAME	AT4G20230
+PRODUCT-TYPE	P
+FUNCTION	lyase
+//
+ID	AT4G02410
+NAME	AT4G02410
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G12130
+NAME	AT4G12130
+PRODUCT-TYPE	P
+FUNCTION	aminomethyltransferase
+//
+ID	AT4G02330
+NAME	AT4G02330
+PRODUCT-TYPE	P
+FUNCTION	pectinesterase
+//
+ID	AT4G03140
+NAME	AT4G03140
+PRODUCT-TYPE	P
+FUNCTION	alcohol dehydrogenase
+FUNCTION	hydroxymethylbilane synthase
+//
+ID	AT4G03060
+NAME	AT4G03060
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G00550
+NAME	AT4G00550
+PRODUCT-TYPE	P
+FUNCTION	UDP-galactose:MGDG galactosyltransferase
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G29600
+NAME	AT4G29600
+PRODUCT-TYPE	P
+FUNCTION	cytidine deaminase
+//
+ID	AT4G36810
+NAME	AT4G36810
+PRODUCT-TYPE	P
+FUNCTION	farnesyltranstransferase
+//
+ID	AT4G19800
+NAME	AT4G19800
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G27820
+NAME	AT4G27820
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G19720
+NAME	AT4G19720
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G39080
+NAME	AT4G39080
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G38270
+NAME	AT4G38270
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G37460
+NAME	AT4G37460
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G29360
+NAME	AT4G29360
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G38190
+NAME	AT4G38190
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G26770
+NAME	AT4G26770
+PRODUCT-TYPE	P
+FUNCTION	phosphatidate cytidylyltransferase
+//
+ID	AT4G09760
+NAME	AT4G09760
+PRODUCT-TYPE	P
+FUNCTION	choline kinase
+//
+ID	AT4G26690
+NAME	AT4G26690
+PRODUCT-TYPE	P
+FUNCTION	glycerophosphodiester phosphodiesterase
+FUNCTION	kinase
+//
+ID	AT4G08870
+NAME	AT4G08870
+PRODUCT-TYPE	P
+FUNCTION	agmatinase
+FUNCTION	arginase
+//
+ID	AT4G08790
+NAME	AT4G08790
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on carbon-nitrogen (but not peptide) bonds
+FUNCTION	nitrilase
+//
+ID	AT4G22100
+NAME	AT4G22100
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G30120
+NAME	AT4G30120
+PRODUCT-TYPE	P
+FUNCTION	ATPase, coupled to transmembrane movement of ions, phosphorylative mechanism
+//
+ID	AT4G20320
+NAME	AT4G20320
+PRODUCT-TYPE	P
+FUNCTION	CTP synthase
+FUNCTION	amine oxidase
+//
+ID	AT4G02500
+NAME	AT4G02500
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G11410
+NAME	AT4G11410
+PRODUCT-TYPE	P
+FUNCTION	protochlorophyllide reductase
+//
+ID	AT4G02420
+NAME	AT4G02420
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G04040
+NAME	AT4G04040
+PRODUCT-TYPE	P
+FUNCTION	6-phosphofructokinase
+//
+ID	AT4G02340
+NAME	AT4G02340
+PRODUCT-TYPE	P
+FUNCTION	epoxide hydrolase
+//
+ID	AT4G20080
+NAME	AT4G20080
+PRODUCT-TYPE	P
+FUNCTION	transferase
+//
+ID	AT4G02260
+NAME	AT4G02260
+PRODUCT-TYPE	P
+FUNCTION	GTP diphosphokinase
+//
+ID	AT4G03070
+NAME	AT4G03070
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G00560
+NAME	AT4G00560
+PRODUCT-TYPE	P
+FUNCTION	3-beta-hydroxy-delta5-steroid dehydrogenase
+FUNCTION	UDP-glucose 4-epimerase
+FUNCTION	dTDP-4-dehydrorhamnose reductase
+FUNCTION	dTDP-glucose 4,6-dehydratase
+//
+ID	AT4G39330
+NAME	AT4G39330
+PRODUCT-TYPE	P
+FUNCTION	mannitol dehydrogenase
+//
+ID	AT4G29610
+NAME	AT4G29610
+PRODUCT-TYPE	P
+FUNCTION	cytidine deaminase
+//
+ID	AT4G29530
+NAME	AT4G29530
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G28720
+NAME	AT4G28720
+PRODUCT-TYPE	P
+FUNCTION	dimethylaniline monooxygenase (N-oxide-forming)
+FUNCTION	disulfide oxidoreductase
+FUNCTION	ferredoxin hydrogenase
+FUNCTION	thioredoxin-disulfide reductase
+//
+ID	AT4G19810
+NAME	AT4G19810
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G37550
+NAME	AT4G37550
+PRODUCT-TYPE	P
+FUNCTION	formamidase
+//
+ID	AT4G29450
+NAME	AT4G29450
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G27830
+NAME	AT4G27830
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G19730
+NAME	AT4G19730
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G37470
+NAME	AT4G37470
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G26940
+NAME	AT4G26940
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring hexosyl groups
+//
+ID	AT4G36580
+NAME	AT4G36580
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G25970
+NAME	AT4G25970
+PRODUCT-TYPE	P
+FUNCTION	phosphatidylserine decarboxylase
+//
+ID	AT4G23000
+NAME	AT4G23000
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G22110
+NAME	AT4G22110
+PRODUCT-TYPE	P
+FUNCTION	alcohol dehydrogenase
+//
+ID	AT4G05020
+NAME	AT4G05020
+PRODUCT-TYPE	P
+FUNCTION	disulfide oxidoreductase
+//
+ID	AT4G01700
+NAME	AT4G01700
+PRODUCT-TYPE	P
+FUNCTION	chitinase
+//
+ID	AT4G21060
+NAME	AT4G21060
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring hexosyl groups
+//
+ID	AT4G03080
+NAME	AT4G03080
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G00570
+NAME	AT4G00570
+PRODUCT-TYPE	P
+FUNCTION	disulfide oxidoreductase
+FUNCTION	malic enzyme
+//
+ID	AT4G00490
+NAME	AT4G00490
+PRODUCT-TYPE	P
+FUNCTION	beta-amylase
+//
+ID	AT4G03165
+NAME	AT4G03165
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G37800
+NAME	AT4G37800
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G29700
+NAME	AT4G29700
+PRODUCT-TYPE	P
+FUNCTION	sulfuric ester hydrolase
+//
+ID	AT4G38530
+NAME	AT4G38530
+PRODUCT-TYPE	P
+FUNCTION	phospholipase C
+//
+ID	AT4G29620
+NAME	AT4G29620
+PRODUCT-TYPE	P
+FUNCTION	cytidine deaminase
+//
+ID	AT4G19900
+NAME	AT4G19900
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G37640
+NAME	AT4G37640
+PRODUCT-TYPE	P
+FUNCTION	calcium-transporting ATPase
+//
+ID	AT4G29540
+NAME	AT4G29540
+PRODUCT-TYPE	P
+FUNCTION	serine O-acetyltransferase
+//
+ID	AT4G28730
+NAME	AT4G28730
+PRODUCT-TYPE	P
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G19820
+NAME	AT4G19820
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G38370
+NAME	AT4G38370
+PRODUCT-TYPE	P
+FUNCTION	phosphohistidine phosphatase
+//
+ID	AT4G37560
+NAME	AT4G37560
+PRODUCT-TYPE	P
+FUNCTION	formamidase
+//
+ID	AT4G36750
+NAME	AT4G36750
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on NADH or NADPH, quinone or similar compound as acceptor
+//
+ID	AT4G29460
+NAME	AT4G29460
+PRODUCT-TYPE	P
+FUNCTION	phospholipase A2
+//
+ID	AT4G18930
+NAME	AT4G18930
+PRODUCT-TYPE	P
+FUNCTION	cyclic-nucleotide phosphodiesterase
+//
+ID	AT4G19740
+NAME	AT4G19740
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G28570
+NAME	AT4G28570
+PRODUCT-TYPE	P
+FUNCTION	monooxygenase
+//
+ID	AT4G27760
+NAME	AT4G27760
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G26870
+NAME	AT4G26870
+PRODUCT-TYPE	P
+FUNCTION	asparagine-tRNA ligase
+FUNCTION	aspartate-tRNA ligase
+FUNCTION	lysine-tRNA ligase
+FUNCTION	phenylalanine-tRNA ligase
+//
+ID	AT4G27680
+NAME	AT4G27680
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G34890
+NAME	AT4G34890
+PRODUCT-TYPE	P
+FUNCTION	3-deoxy-7-phosphoheptulonate synthase
+FUNCTION	xanthine dehydrogenase
+//
+ID	AT4G25980
+NAME	AT4G25980
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G26790
+NAME	AT4G26790
+PRODUCT-TYPE	P
+FUNCTION	carboxylic ester hydrolase
+FUNCTION	transaminase
+//
+ID	AT4G32000
+NAME	AT4G32000
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G31110
+NAME	AT4G31110
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G14100
+NAME	AT4G14100
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G13210
+NAME	AT4G13210
+PRODUCT-TYPE	P
+FUNCTION	pectate lyase
+//
+ID	AT4G30140
+NAME	AT4G30140
+PRODUCT-TYPE	P
+FUNCTION	carboxylic ester hydrolase
+//
+ID	AT4G04220
+NAME	AT4G04220
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G21230
+NAME	AT4G21230
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G00900
+NAME	AT4G00900
+PRODUCT-TYPE	P
+FUNCTION	calcium-transporting ATPase
+//
+ID	AT4G02520
+NAME	AT4G02520
+PRODUCT-TYPE	P
+FUNCTION	glutathione transferase
+//
+ID	AT4G11350
+NAME	AT4G11350
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G02280
+NAME	AT4G02280
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+FUNCTION	sucrose synthase
+//
+ID	AT4G39350
+NAME	AT4G39350
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G38540
+NAME	AT4G38540
+PRODUCT-TYPE	P
+FUNCTION	monooxygenase
+//
+ID	AT4G29630
+NAME	AT4G29630
+PRODUCT-TYPE	P
+FUNCTION	cytidine deaminase
+//
+ID	AT4G38460
+NAME	AT4G38460
+PRODUCT-TYPE	P
+FUNCTION	farnesyltranstransferase
+//
+ID	AT4G29470
+NAME	AT4G29470
+PRODUCT-TYPE	P
+FUNCTION	phospholipase A2
+//
+ID	AT4G19750
+NAME	AT4G19750
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G35790
+NAME	AT4G35790
+PRODUCT-TYPE	P
+FUNCTION	phospholipase D
+//
+ID	AT4G18780
+NAME	AT4G18780
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G26965
+NAME	AT4G26965
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G23100
+NAME	AT4G23100
+PRODUCT-TYPE	P
+FUNCTION	glutamate-cysteine ligase
+//
+ID	AT4G30310
+NAME	AT4G30310
+PRODUCT-TYPE	P
+FUNCTION	glycerol kinase
+FUNCTION	ribulokinase
+FUNCTION	xylulokinase
+//
+ID	AT4G05200
+NAME	AT4G05200
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G13300
+NAME	AT4G13300
+PRODUCT-TYPE	P
+FUNCTION	lyase
+//
+ID	AT4G21400
+NAME	AT4G21400
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G11600
+NAME	AT4G11600
+PRODUCT-TYPE	P
+FUNCTION	glutathione peroxidase
+//
+ID	AT4G02610
+NAME	AT4G02610
+PRODUCT-TYPE	P
+FUNCTION	tryptophan synthase
+//
+ID	AT4G03340
+NAME	AT4G03340
+PRODUCT-TYPE	P
+FUNCTION	acetylglucosaminyltransferase
+//
+ID	AT4G12250
+NAME	AT4G12250
+PRODUCT-TYPE	P
+FUNCTION	3-beta-hydroxy-delta5-steroid dehydrogenase
+FUNCTION	GDP-mannose 4,6-dehydratase
+FUNCTION	UDP-glucose 4-epimerase
+FUNCTION	dTDP-glucose 4,6-dehydratase
+//
+ID	AT4G12170
+NAME	AT4G12170
+PRODUCT-TYPE	P
+FUNCTION	isomerase
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G11280
+NAME	AT4G11280
+PRODUCT-TYPE	P
+FUNCTION	1-aminocyclopropane-1-carboxylate synthase
+//
+ID	AT4G02290
+NAME	AT4G02290
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G01480
+NAME	AT4G01480
+PRODUCT-TYPE	P
+FUNCTION	pyrophosphatase
+//
+ID	AT4G10390
+NAME	AT4G10390
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G00590
+NAME	AT4G00590
+PRODUCT-TYPE	P
+FUNCTION	asparaginase
+//
+ID	AT4G29720
+NAME	AT4G29720
+PRODUCT-TYPE	P
+FUNCTION	amine oxidase
+FUNCTION	protoporphyrinogen oxidase
+//
+ID	AT4G38550
+NAME	AT4G38550
+PRODUCT-TYPE	P
+FUNCTION	phospholipase
+//
+ID	AT4G29640
+NAME	AT4G29640
+PRODUCT-TYPE	P
+FUNCTION	cytidine deaminase
+//
+ID	AT4G28830
+NAME	AT4G28830
+PRODUCT-TYPE	P
+FUNCTION	N-methyltransferase
+//
+ID	AT4G19920
+NAME	AT4G19920
+PRODUCT-TYPE	P
+FUNCTION	isocitrate dehydrogenase (NADP+)
+//
+ID	AT4G37580
+NAME	AT4G37580
+PRODUCT-TYPE	P
+FUNCTION	N-acetyltransferase
+//
+ID	AT4G36770
+NAME	AT4G36770
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G28670
+NAME	AT4G28670
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G19760
+NAME	AT4G19760
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G26970
+NAME	AT4G26970
+PRODUCT-TYPE	P
+FUNCTION	3-isopropylmalate dehydratase
+FUNCTION	aconitate hydratase
+FUNCTION	homoaconitate hydratase
+FUNCTION	hydro-lyase
+//
+ID	AT4G24000
+NAME	AT4G24000
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G22300
+NAME	AT4G22300
+PRODUCT-TYPE	P
+FUNCTION	carboxylic ester hydrolase
+//
+ID	AT4G31130
+NAME	AT4G31130
+PRODUCT-TYPE	P
+FUNCTION	hydroxymethylglutaryl-CoA reductase (NADPH)
+//
+ID	AT4G21410
+NAME	AT4G21410
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G31050
+NAME	AT4G31050
+PRODUCT-TYPE	P
+FUNCTION	lipoyltransferase
+//
+ID	AT4G11610
+NAME	AT4G11610
+PRODUCT-TYPE	P
+FUNCTION	homoserine kinase
+FUNCTION	transferase
+//
+ID	AT4G11530
+NAME	AT4G11530
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G11290
+NAME	AT4G11290
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G38800
+NAME	AT4G38800
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G37830
+NAME	AT4G37830
+PRODUCT-TYPE	P
+FUNCTION	cytochrome-c oxidase
+//
+ID	AT4G38560
+NAME	AT4G38560
+PRODUCT-TYPE	P
+FUNCTION	phospholipase
+//
+ID	AT4G36940
+NAME	AT4G36940
+PRODUCT-TYPE	P
+FUNCTION	nicotinate phosphoribosyltransferase
+FUNCTION	nicotinate-nucleotide diphosphorylase (carboxylating)
+//
+ID	AT4G29650
+NAME	AT4G29650
+PRODUCT-TYPE	P
+FUNCTION	cytidine deaminase
+//
+ID	AT4G37670
+NAME	AT4G37670
+PRODUCT-TYPE	P
+FUNCTION	acetylglutamate kinase
+FUNCTION	amino-acid N-acetyltransferase
+FUNCTION	ferredoxin hydrogenase
+//
+ID	AT4G29570
+NAME	AT4G29570
+PRODUCT-TYPE	P
+FUNCTION	cytidine deaminase
+//
+ID	AT4G35970
+NAME	AT4G35970
+PRODUCT-TYPE	P
+FUNCTION	L-ascorbate peroxidase
+//
+ID	AT4G28680
+NAME	AT4G28680
+PRODUCT-TYPE	P
+FUNCTION	carboxy-lyase
+FUNCTION	transaminase
+FUNCTION	tyrosine decarboxylase
+//
+ID	AT4G19770
+NAME	AT4G19770
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G32110
+NAME	AT4G32110
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G24010
+NAME	AT4G24010
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G14210
+NAME	AT4G14210
+PRODUCT-TYPE	P
+FUNCTION	phytoene dehydrogenase
+//
+ID	AT4G31140
+NAME	AT4G31140
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G14130
+NAME	AT4G14130
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G30250
+NAME	AT4G30250
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G03520
+NAME	AT4G03520
+PRODUCT-TYPE	P
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G12430
+NAME	AT4G12430
+PRODUCT-TYPE	P
+FUNCTION	trehalose-phosphatase
+//
+ID	AT4G30170
+NAME	AT4G30170
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G20450
+NAME	AT4G20450
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G11460
+NAME	AT4G11460
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G12270
+NAME	AT4G12270
+PRODUCT-TYPE	P
+FUNCTION	amine oxidase
+//
+ID	AT4G13080
+NAME	AT4G13080
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G03280
+NAME	AT4G03280
+PRODUCT-TYPE	P
+FUNCTION	plastoquinol-plastocyanin reductase
+//
+ID	AT4G02390
+NAME	AT4G02390
+PRODUCT-TYPE	P
+FUNCTION	NAD+ ADP-ribosyltransferase
+//
+ID	AT4G10490
+NAME	AT4G10490
+PRODUCT-TYPE	P
+FUNCTION	isopenicillin-N synthase
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G29900
+NAME	AT4G29900
+PRODUCT-TYPE	P
+FUNCTION	calcium-transporting ATPase
+//
+ID	AT4G39540
+NAME	AT4G39540
+PRODUCT-TYPE	P
+FUNCTION	shikimate kinase
+//
+ID	AT4G38650
+NAME	AT4G38650
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G37840
+NAME	AT4G37840
+PRODUCT-TYPE	P
+FUNCTION	hexokinase
+//
+ID	AT4G29740
+NAME	AT4G29740
+PRODUCT-TYPE	P
+FUNCTION	amine oxidase
+FUNCTION	cytokinin oxidase
+//
+ID	AT4G38570
+NAME	AT4G38570
+PRODUCT-TYPE	P
+FUNCTION	CDP-diacylglycerol-inositol 3-phosphatidyltransferase
+//
+ID	AT4G37760
+NAME	AT4G37760
+PRODUCT-TYPE	P
+FUNCTION	squalene monooxygenase
+//
+ID	AT4G28850
+NAME	AT4G28850
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G29580
+NAME	AT4G29580
+PRODUCT-TYPE	P
+FUNCTION	cytidine deaminase
+//
+ID	AT4G19860
+NAME	AT4G19860
+PRODUCT-TYPE	P
+FUNCTION	phosphatidylcholine-sterol O-acyltransferase
+//
+ID	AT4G18970
+NAME	AT4G18970
+PRODUCT-TYPE	P
+FUNCTION	carboxylic ester hydrolase
+//
+ID	AT4G09980
+NAME	AT4G09980
+PRODUCT-TYPE	P
+FUNCTION	S-adenosylmethionine-dependent methyltransferase
+//
+ID	AT4G33010
+NAME	AT4G33010
+PRODUCT-TYPE	P
+FUNCTION	glycine dehydrogenase (decarboxylating)
+//
+ID	AT4G32200
+NAME	AT4G32200
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G32120
+NAME	AT4G32120
+PRODUCT-TYPE	P
+FUNCTION	galactosyltransferase
+//
+ID	AT4G23210
+NAME	AT4G23210
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G31230
+NAME	AT4G31230
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G04500
+NAME	AT4G04500
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G13410
+NAME	AT4G13410
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G23130
+NAME	AT4G23130
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G30340
+NAME	AT4G30340
+PRODUCT-TYPE	P
+FUNCTION	diacylglycerol kinase
+//
+ID	AT4G03610
+NAME	AT4G03610
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G12440
+NAME	AT4G12440
+PRODUCT-TYPE	P
+FUNCTION	adenine phosphoribosyltransferase
+FUNCTION	orotate phosphoribosyltransferase
+//
+ID	AT4G13250
+NAME	AT4G13250
+PRODUCT-TYPE	P
+FUNCTION	glutamate 5-kinase
+FUNCTION	oxidoreductase
+//
+ID	AT4G20460
+NAME	AT4G20460
+PRODUCT-TYPE	P
+FUNCTION	3-beta-hydroxy-delta5-steroid dehydrogenase
+FUNCTION	GDP-mannose 4,6-dehydratase
+FUNCTION	UDP-glucose 4-epimerase
+FUNCTION	dTDP-4-dehydrorhamnose reductase
+FUNCTION	dTDP-glucose 4,6-dehydratase
+//
+ID	AT4G22080
+NAME	AT4G22080
+PRODUCT-TYPE	P
+FUNCTION	pectate lyase
+//
+ID	AT4G04180
+NAME	AT4G04180
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G12280
+NAME	AT4G12280
+PRODUCT-TYPE	P
+FUNCTION	amine oxidase
+//
+ID	AT4G13090
+NAME	AT4G13090
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G02480
+NAME	AT4G02480
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G37930
+NAME	AT4G37930
+PRODUCT-TYPE	P
+FUNCTION	glycine hydroxymethyltransferase
+//
+ID	AT4G37770
+NAME	AT4G37770
+PRODUCT-TYPE	P
+FUNCTION	1-aminocyclopropane-1-carboxylate synthase
+//
+ID	AT4G29670
+NAME	AT4G29670
+PRODUCT-TYPE	P
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G37690
+NAME	AT4G37690
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G28780
+NAME	AT4G28780
+PRODUCT-TYPE	P
+FUNCTION	carboxylic ester hydrolase
+//
+ID	AT4G25000
+NAME	AT4G25000
+PRODUCT-TYPE	P
+FUNCTION	alpha-amylase
+//
+ID	AT4G32210
+NAME	AT4G32210
+PRODUCT-TYPE	P
+FUNCTION	succinate dehydrogenase
+//
+ID	AT4G23300
+NAME	AT4G23300
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G23220
+NAME	AT4G23220
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G04510
+NAME	AT4G04510
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G23140
+NAME	AT4G23140
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G11720
+NAME	AT4G11720
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G30270
+NAME	AT4G30270
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G05160
+NAME	AT4G05160
+PRODUCT-TYPE	P
+FUNCTION	4-coumarate-CoA ligase
+//
+ID	AT4G04350
+NAME	AT4G04350
+PRODUCT-TYPE	P
+FUNCTION	homoaconitate hydratase
+FUNCTION	isoleucine-tRNA ligase
+FUNCTION	leucine-tRNA ligase
+FUNCTION	methionine-tRNA ligase
+FUNCTION	valine-tRNA ligase
+//
+ID	AT4G11640
+NAME	AT4G11640
+PRODUCT-TYPE	P
+FUNCTION	serine racemase
+//
+ID	AT4G13260
+NAME	AT4G13260
+PRODUCT-TYPE	P
+FUNCTION	monooxygenase
+//
+ID	AT4G30190
+NAME	AT4G30190
+PRODUCT-TYPE	P
+FUNCTION	hydrogen-exporting ATPase, phosphorylative mechanism
+//
+ID	AT4G10750
+NAME	AT4G10750
+PRODUCT-TYPE	P
+FUNCTION	aldehyde-lyase
+//
+ID	AT4G13180
+NAME	AT4G13180
+PRODUCT-TYPE	P
+FUNCTION	alcohol dehydrogenase
+//
+ID	AT4G22090
+NAME	AT4G22090
+PRODUCT-TYPE	P
+FUNCTION	pectate lyase
+//
+ID	AT4G11480
+NAME	AT4G11480
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G12290
+NAME	AT4G12290
+PRODUCT-TYPE	P
+FUNCTION	amine oxidase
+//
+ID	AT4G39800
+NAME	AT4G39800
+PRODUCT-TYPE	P
+FUNCTION	inositol-3-phosphate synthase
+//
+ID	AT4G39640
+NAME	AT4G39640
+PRODUCT-TYPE	P
+FUNCTION	gamma-glutamyltransferase
+//
+ID	AT4G38830
+NAME	AT4G38830
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G29840
+NAME	AT4G29840
+PRODUCT-TYPE	P
+FUNCTION	threonine synthase
+//
+ID	AT4G38590
+NAME	AT4G38590
+PRODUCT-TYPE	P
+FUNCTION	beta-galactosidase
+//
+ID	AT4G29680
+NAME	AT4G29680
+PRODUCT-TYPE	P
+FUNCTION	sulfuric ester hydrolase
+//
+ID	AT4G36890
+NAME	AT4G36890
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G18990
+NAME	AT4G18990
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G33110
+NAME	AT4G33110
+PRODUCT-TYPE	P
+FUNCTION	(S)-coclaurine-N-methyltransferase
+FUNCTION	cyclopropane-fatty-acyl-phospholipid synthase
+//
+ID	AT4G32300
+NAME	AT4G32300
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G33030
+NAME	AT4G33030
+PRODUCT-TYPE	P
+FUNCTION	UDPsulfoquinovose synthase
+FUNCTION	sulfotransferase
+//
+ID	AT4G15210
+NAME	AT4G15210
+PRODUCT-TYPE	P
+FUNCTION	beta-amylase
+//
+ID	AT4G15130
+NAME	AT4G15130
+PRODUCT-TYPE	P
+FUNCTION	choline-phosphate cytidylyltransferase
+//
+ID	AT4G23230
+NAME	AT4G23230
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G24040
+NAME	AT4G24040
+PRODUCT-TYPE	P
+FUNCTION	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
+FUNCTION	trehalase
+//
+ID	AT4G30440
+NAME	AT4G30440
+PRODUCT-TYPE	P
+FUNCTION	3-beta-hydroxy-delta5-steroid dehydrogenase
+FUNCTION	GDP-mannose 4,6-dehydratase
+FUNCTION	UDP-glucose 4-epimerase
+FUNCTION	dTDP-glucose 4,6-dehydratase
+//
+ID	AT4G13430
+NAME	AT4G13430
+PRODUCT-TYPE	P
+FUNCTION	3-isopropylmalate dehydratase
+FUNCTION	aconitate hydratase
+FUNCTION	homoaconitate hydratase
+FUNCTION	hydro-lyase
+//
+ID	AT4G22340
+NAME	AT4G22340
+PRODUCT-TYPE	P
+FUNCTION	phosphatidate cytidylyltransferase
+//
+ID	AT4G23150
+NAME	AT4G23150
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G11730
+NAME	AT4G11730
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G22260
+NAME	AT4G22260
+PRODUCT-TYPE	P
+FUNCTION	alternative oxidase
+//
+ID	AT4G30280
+NAME	AT4G30280
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G03550
+NAME	AT4G03550
+PRODUCT-TYPE	P
+FUNCTION	1,3-beta-glucan synthase
+//
+ID	AT4G14080
+NAME	AT4G14080
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G05090
+NAME	AT4G05090
+PRODUCT-TYPE	P
+FUNCTION	inositol or phosphatidylinositol phosphatase
+//
+ID	AT4G01850
+NAME	AT4G01850
+PRODUCT-TYPE	P
+FUNCTION	methionine adenosyltransferase
+//
+ID	AT4G10760
+NAME	AT4G10760
+PRODUCT-TYPE	P
+FUNCTION	S-adenosylmethionine-dependent methyltransferase
+//
+ID	AT4G11570
+NAME	AT4G11570
+PRODUCT-TYPE	P
+FUNCTION	phosphoglycolate phosphatase
+//
+ID	AT4G15215
+NAME	AT4G15215
+PRODUCT-TYPE	P
+FUNCTION	polyamine-transporting ATPase
+//
+ID	AT4G02580
+NAME	AT4G02580
+PRODUCT-TYPE	P
+FUNCTION	NADH dehydrogenase (ubiquinone)
+//
+ID	AT4G11490
+NAME	AT4G11490
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G01690
+NAME	AT4G01690
+PRODUCT-TYPE	P
+FUNCTION	protoporphyrinogen oxidase
+//
+ID	AT4G38920
+NAME	AT4G38920
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G39650
+NAME	AT4G39650
+PRODUCT-TYPE	P
+FUNCTION	gamma-glutamyltransferase
+//
+ID	AT4G37950
+NAME	AT4G37950
+PRODUCT-TYPE	P
+FUNCTION	lyase
+//
+ID	AT4G37870
+NAME	AT4G37870
+PRODUCT-TYPE	P
+FUNCTION	phosphoenolpyruvate carboxykinase (ATP)
+//
+ID	AT4G29690
+NAME	AT4G29690
+PRODUCT-TYPE	P
+FUNCTION	sulfuric ester hydrolase
+//
+ID	AT4G25100
+NAME	AT4G25100
+PRODUCT-TYPE	P
+FUNCTION	iron superoxide dismutase
+//
+ID	AT4G33120
+NAME	AT4G33120
+PRODUCT-TYPE	P
+FUNCTION	(S)-coclaurine-N-methyltransferase
+FUNCTION	cyclopropane-fatty-acyl-phospholipid synthase
+//
+ID	AT4G31500
+NAME	AT4G31500
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD or NADH as one donor, and incorporation of one atom of oxygen
+//
+ID	AT4G33040
+NAME	AT4G33040
+PRODUCT-TYPE	P
+FUNCTION	thiol-disulfide exchange intermediate
+//
+ID	AT4G21700
+NAME	AT4G21700
+PRODUCT-TYPE	P
+FUNCTION	amine oxidase
+//
+ID	AT4G23320
+NAME	AT4G23320
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G30530
+NAME	AT4G30530
+PRODUCT-TYPE	P
+FUNCTION	GMP synthase (glutamine-hydrolyzing)
+FUNCTION	anthranilate synthase
+//
+ID	AT4G04610
+NAME	AT4G04610
+PRODUCT-TYPE	P
+FUNCTION	adenylyl-sulfate reductase
+//
+ID	AT4G24050
+NAME	AT4G24050
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G11820
+NAME	AT4G11820
+PRODUCT-TYPE	P
+FUNCTION	hydroxymethylglutaryl-CoA synthase
+//
+ID	AT4G21540
+NAME	AT4G21540
+PRODUCT-TYPE	P
+FUNCTION	diacylglycerol kinase
+//
+ID	AT4G23160
+NAME	AT4G23160
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G31180
+NAME	AT4G31180
+PRODUCT-TYPE	P
+FUNCTION	asparagine-tRNA ligase
+FUNCTION	aspartate-tRNA ligase
+FUNCTION	lysine-tRNA ligase
+//
+ID	AT4G13360
+NAME	AT4G13360
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G30290
+NAME	AT4G30290
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on glycosyl bonds
+//
+ID	AT4G14090
+NAME	AT4G14090
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G13280
+NAME	AT4G13280
+PRODUCT-TYPE	P
+FUNCTION	lyase
+//
+ID	AT4G11580
+NAME	AT4G11580
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G39740
+NAME	AT4G39740
+PRODUCT-TYPE	P
+FUNCTION	monooxygenase
+//
+ID	AT4G39660
+NAME	AT4G39660
+PRODUCT-TYPE	P
+FUNCTION	alanine-glyoxylate transaminase
+//
+ID	AT4G38690
+NAME	AT4G38690
+PRODUCT-TYPE	P
+FUNCTION	phospholipase C
+//
+ID	AT4G29780
+NAME	AT4G29780
+PRODUCT-TYPE	P
+FUNCTION	phospholipase A2
+//
+ID	AT4G19985
+NAME	AT4G19985
+PRODUCT-TYPE	P
+FUNCTION	N-acetyltransferase
+//
+ID	AT4G32320
+NAME	AT4G32320
+PRODUCT-TYPE	P
+FUNCTION	L-ascorbate peroxidase
+//
+ID	AT4G24140
+NAME	AT4G24140
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G30540
+NAME	AT4G30540
+PRODUCT-TYPE	P
+FUNCTION	GMP synthase (glutamine-hydrolyzing)
+//
+ID	AT4G12720
+NAME	AT4G12720
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G20820
+NAME	AT4G20820
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G23250
+NAME	AT4G23250
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G11830
+NAME	AT4G11830
+PRODUCT-TYPE	P
+FUNCTION	phospholipase D
+//
+ID	AT4G04540
+NAME	AT4G04540
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G15233
+NAME	AT4G15233
+PRODUCT-TYPE	P
+FUNCTION	polyamine-transporting ATPase
+//
+ID	AT4G21470
+NAME	AT4G21470
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+FUNCTION	riboflavin kinase
+//
+ID	AT4G01950
+NAME	AT4G01950
+PRODUCT-TYPE	P
+FUNCTION	1-acylglycerol-3-phosphate O-acyltransferase
+//
+ID	AT4G15236
+NAME	AT4G15236
+PRODUCT-TYPE	P
+FUNCTION	polyamine-transporting ATPase
+//
+ID	AT4G39830
+NAME	AT4G39830
+PRODUCT-TYPE	P
+FUNCTION	L-ascorbate oxidase
+//
+ID	AT4G37970
+NAME	AT4G37970
+PRODUCT-TYPE	P
+FUNCTION	mannitol dehydrogenase
+//
+ID	AT4G28980
+NAME	AT4G28980
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G35000
+NAME	AT4G35000
+PRODUCT-TYPE	P
+FUNCTION	L-ascorbate peroxidase
+//
+ID	AT4G26010
+NAME	AT4G26010
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G34030
+NAME	AT4G34030
+PRODUCT-TYPE	P
+FUNCTION	methylcrotonoyl-CoA carboxylase
+//
+ID	AT4G33220
+NAME	AT4G33220
+PRODUCT-TYPE	P
+FUNCTION	pectinesterase
+//
+ID	AT4G32410
+NAME	AT4G32410
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G15400
+NAME	AT4G15400
+PRODUCT-TYPE	P
+FUNCTION	transferase
+//
+ID	AT4G16210
+NAME	AT4G16210
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G23500
+NAME	AT4G23500
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G33140
+NAME	AT4G33140
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G15320
+NAME	AT4G15320
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G13700
+NAME	AT4G13700
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G16130
+NAME	AT4G16130
+PRODUCT-TYPE	P
+FUNCTION	galactokinase
+//
+ID	AT4G15240
+NAME	AT4G15240
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G14430
+NAME	AT4G14430
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G23340
+NAME	AT4G23340
+PRODUCT-TYPE	P
+FUNCTION	isopenicillin-N synthase
+//
+ID	AT4G24150
+NAME	AT4G24150
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G30550
+NAME	AT4G30550
+PRODUCT-TYPE	P
+FUNCTION	GMP synthase (glutamine-hydrolyzing)
+FUNCTION	anthranilate synthase
+//
+ID	AT4G14350
+NAME	AT4G14350
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G30470
+NAME	AT4G30470
+PRODUCT-TYPE	P
+FUNCTION	cinnamoyl-CoA reductase
+//
+ID	AT4G11840
+NAME	AT4G11840
+PRODUCT-TYPE	P
+FUNCTION	phospholipase D
+//
+ID	AT4G10950
+NAME	AT4G10950
+PRODUCT-TYPE	P
+FUNCTION	carboxylic ester hydrolase
+//
+ID	AT4G02850
+NAME	AT4G02850
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G20670
+NAME	AT4G20670
+PRODUCT-TYPE	P
+FUNCTION	lipase
+//
+ID	AT4G10955
+NAME	AT4G10955
+PRODUCT-TYPE	P
+FUNCTION	triacylglycerol lipase
+//
+ID	AT4G37980
+NAME	AT4G37980
+PRODUCT-TYPE	P
+FUNCTION	mannitol dehydrogenase
+//
+ID	AT4G35010
+NAME	AT4G35010
+PRODUCT-TYPE	P
+FUNCTION	beta-galactosidase
+//
+ID	AT4G34200
+NAME	AT4G34200
+PRODUCT-TYPE	P
+FUNCTION	phosphoglycerate dehydrogenase
+//
+ID	AT4G09010
+NAME	AT4G09010
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G33230
+NAME	AT4G33230
+PRODUCT-TYPE	P
+FUNCTION	pectinesterase
+//
+ID	AT4G15410
+NAME	AT4G15410
+PRODUCT-TYPE	P
+FUNCTION	phosphoric monoester hydrolase
+//
+ID	AT4G33150
+NAME	AT4G33150
+PRODUCT-TYPE	P
+FUNCTION	lysine-ketoglutarate reductase
+FUNCTION	saccharopine dehydrogenase
+//
+ID	AT4G31530
+NAME	AT4G31530
+PRODUCT-TYPE	P
+FUNCTION	3-beta-hydroxy-delta5-steroid dehydrogenase
+//
+ID	AT4G30720
+NAME	AT4G30720
+PRODUCT-TYPE	P
+FUNCTION	disulfide oxidoreductase
+FUNCTION	monooxygenase
+//
+ID	AT4G13710
+NAME	AT4G13710
+PRODUCT-TYPE	P
+FUNCTION	pectate lyase
+//
+ID	AT4G08040
+NAME	AT4G08040
+PRODUCT-TYPE	P
+FUNCTION	1-aminocyclopropane-1-carboxylate synthase
+FUNCTION	histidinol-phosphate transaminase
+FUNCTION	tyrosine transaminase
+//
+ID	AT4G23430
+NAME	AT4G23430
+PRODUCT-TYPE	P
+FUNCTION	protochlorophyllide reductase
+//
+ID	AT4G33070
+NAME	AT4G33070
+PRODUCT-TYPE	P
+FUNCTION	pyruvate decarboxylase
+//
+ID	AT4G14440
+NAME	AT4G14440
+PRODUCT-TYPE	P
+FUNCTION	carnitine racemase
+//
+ID	AT4G05530
+NAME	AT4G05530
+PRODUCT-TYPE	P
+FUNCTION	alcohol dehydrogenase
+//
+ID	AT4G20920
+NAME	AT4G20920
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G24160
+NAME	AT4G24160
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, acting on ester bonds
+//
+ID	AT4G32180
+NAME	AT4G32180
+PRODUCT-TYPE	P
+FUNCTION	pantothenate kinase
+//
+ID	AT4G13550
+NAME	AT4G13550
+PRODUCT-TYPE	P
+FUNCTION	triacylglycerol lipase
+//
+ID	AT4G24080
+NAME	AT4G24080
+PRODUCT-TYPE	P
+FUNCTION	aldehyde-lyase
+//
+ID	AT4G11850
+NAME	AT4G11850
+PRODUCT-TYPE	P
+FUNCTION	phospholipase D
+//
+ID	AT4G20760
+NAME	AT4G20760
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G10960
+NAME	AT4G10960
+PRODUCT-TYPE	P
+FUNCTION	UDP-glucose 4-epimerase
+//
+ID	AT4G02860
+NAME	AT4G02860
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G21490
+NAME	AT4G21490
+PRODUCT-TYPE	P
+FUNCTION	NADH dehydrogenase
+//
+ID	AT4G01970
+NAME	AT4G01970
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G02780
+NAME	AT4G02780
+PRODUCT-TYPE	P
+FUNCTION	ent-copalyl diphosphate synthase
+//
+ID	AT4G15093
+NAME	AT4G15093
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G01890
+NAME	AT4G01890
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G39770
+NAME	AT4G39770
+PRODUCT-TYPE	P
+FUNCTION	trehalose-phosphatase
+//
+ID	AT4G38880
+NAME	AT4G38880
+PRODUCT-TYPE	P
+FUNCTION	amidophosphoribosyltransferase
+//
+ID	AT4G37990
+NAME	AT4G37990
+PRODUCT-TYPE	P
+FUNCTION	aryl-alcohol dehydrogenase
+FUNCTION	mannitol dehydrogenase
+//
+ID	AT4G29890
+NAME	AT4G29890
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G35020
+NAME	AT4G35020
+PRODUCT-TYPE	P
+FUNCTION	GTPase
+//
+ID	AT4G18010
+NAME	AT4G18010
+PRODUCT-TYPE	P
+FUNCTION	inositol-polyphosphate 5-phosphatase
+//
+ID	AT4G25300
+NAME	AT4G25300
+PRODUCT-TYPE	P
+FUNCTION	isopenicillin-N synthase
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G15500
+NAME	AT4G15500
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G09020
+NAME	AT4G09020
+PRODUCT-TYPE	P
+FUNCTION	1,4-alpha-glucan branching enzyme
+FUNCTION	alpha-amylase
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G16310
+NAME	AT4G16310
+PRODUCT-TYPE	P
+FUNCTION	amine oxidase
+FUNCTION	disulfide oxidoreductase
+FUNCTION	protoporphyrinogen oxidase
+FUNCTION	thioredoxin-disulfide reductase
+//
+ID	AT4G23600
+NAME	AT4G23600
+PRODUCT-TYPE	P
+FUNCTION	cystathionine beta-lyase
+FUNCTION	transaminase
+//
+ID	AT4G25220
+NAME	AT4G25220
+PRODUCT-TYPE	P
+FUNCTION	glucose-6-phosphate isomerase
+//
+ID	AT4G34131
+NAME	AT4G34131
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G34050
+NAME	AT4G34050
+PRODUCT-TYPE	P
+FUNCTION	caffeoyl-CoA O-methyltransferase
+//
+ID	AT4G33240
+NAME	AT4G33240
+PRODUCT-TYPE	P
+FUNCTION	1-phosphatidylinositol-4-phosphate 5-kinase
+//
+ID	AT4G16230
+NAME	AT4G16230
+PRODUCT-TYPE	P
+FUNCTION	carboxylic ester hydrolase
+//
+ID	AT4G15340
+NAME	AT4G15340
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G33080
+NAME	AT4G33080
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G15260
+NAME	AT4G15260
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G12830
+NAME	AT4G12830
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G16070
+NAME	AT4G16070
+PRODUCT-TYPE	P
+FUNCTION	triacylglycerol lipase
+//
+ID	AT4G20930
+NAME	AT4G20930
+PRODUCT-TYPE	P
+FUNCTION	3-hydroxyisobutyrate dehydrogenase
+FUNCTION	phosphogluconate dehydrogenase (decarboxylating)
+//
+ID	AT4G30570
+NAME	AT4G30570
+PRODUCT-TYPE	P
+FUNCTION	UDP-N-acetylglucosamine diphosphorylase
+FUNCTION	UTP-glucose-1-phosphate uridylyltransferase
+FUNCTION	glucose-1-phosphate thymidylyltransferase
+//
+ID	AT4G05460
+NAME	AT4G05460
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G34135
+NAME	AT4G34135
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G30490
+NAME	AT4G30490
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+FUNCTION	carbamoyl-phosphate synthase
+//
+ID	AT4G04570
+NAME	AT4G04570
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G05380
+NAME	AT4G05380
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G04490
+NAME	AT4G04490
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G08136
+NAME	AT4G08136
+PRODUCT-TYPE	P
+FUNCTION	acid phosphatase
+//
+ID	AT4G16155
+NAME	AT4G16155
+PRODUCT-TYPE	P
+FUNCTION	dihydrolipoyl dehydrogenase
+//
+ID	AT4G34138
+NAME	AT4G34138
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G08138
+NAME	AT4G08138
+PRODUCT-TYPE	P
+FUNCTION	adenylosuccinate synthase
+//
+ID	AT4G39940
+NAME	AT4G39940
+PRODUCT-TYPE	P
+FUNCTION	kinase
+FUNCTION	transferase, transferring phosphorus-containing groups
+//
+ID	AT4G38970
+NAME	AT4G38970
+PRODUCT-TYPE	P
+FUNCTION	fructose-bisphosphate aldolase
+//
+ID	AT4G26200
+NAME	AT4G26200
+PRODUCT-TYPE	P
+FUNCTION	1-aminocyclopropane-1-carboxylate synthase
+//
+ID	AT4G35030
+NAME	AT4G35030
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G25310
+NAME	AT4G25310
+PRODUCT-TYPE	P
+FUNCTION	isopenicillin-N synthase
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G33330
+NAME	AT4G33330
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G32520
+NAME	AT4G32520
+PRODUCT-TYPE	P
+FUNCTION	glycine hydroxymethyltransferase
+//
+ID	AT4G07330
+NAME	AT4G07330
+PRODUCT-TYPE	P
+FUNCTION	monooxygenase
+//
+ID	AT4G24340
+NAME	AT4G24340
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G25150
+NAME	AT4G25150
+PRODUCT-TYPE	P
+FUNCTION	acid phosphatase
+//
+ID	AT4G33170
+NAME	AT4G33170
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G24260
+NAME	AT4G24260
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G15270
+NAME	AT4G15270
+PRODUCT-TYPE	P
+FUNCTION	transferase, transferring glycosyl groups
+//
+ID	AT4G03930
+NAME	AT4G03930
+PRODUCT-TYPE	P
+FUNCTION	pectinesterase
+//
+ID	AT4G06603
+NAME	AT4G06603
+PRODUCT-TYPE	P
+FUNCTION	phenylalanine-tRNA ligase
+//
+ID	AT4G30580
+NAME	AT4G30580
+PRODUCT-TYPE	P
+FUNCTION	1-acylglycerol-3-phosphate O-acyltransferase
+//
+ID	AT4G05632
+NAME	AT4G05632
+PRODUCT-TYPE	P
+FUNCTION	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+//
+ID	AT4G20860
+NAME	AT4G20860
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G21670
+NAME	AT4G21670
+PRODUCT-TYPE	P
+FUNCTION	nucleotide phosphatase
+//
+ID	AT4G23290
+NAME	AT4G23290
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G05390
+NAME	AT4G05390
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase
+//
+ID	AT4G39955
+NAME	AT4G39955
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G17300
+NAME	AT4G17300
+PRODUCT-TYPE	P
+FUNCTION	asparagine-tRNA ligase
+//
+ID	AT4G34230
+NAME	AT4G34230
+PRODUCT-TYPE	P
+FUNCTION	cinnamyl-alcohol dehydrogenase
+//
+ID	AT4G33420
+NAME	AT4G33420
+PRODUCT-TYPE	P
+FUNCTION	peroxidase
+//
+ID	AT4G24510
+NAME	AT4G24510
+PRODUCT-TYPE	P
+FUNCTION	transferase
+//
+ID	AT4G32530
+NAME	AT4G32530
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G31720
+NAME	AT4G31720
+PRODUCT-TYPE	P
+FUNCTION	urease
+//
+ID	AT4G13900
+NAME	AT4G13900
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G16330
+NAME	AT4G16330
+PRODUCT-TYPE	P
+FUNCTION	isopenicillin-N synthase
+FUNCTION	oxidoreductase, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+//
+ID	AT4G24430
+NAME	AT4G24430
+PRODUCT-TYPE	P
+FUNCTION	lyase
+//
+ID	AT4G34070
+NAME	AT4G34070
+PRODUCT-TYPE	P
+FUNCTION	carboxy-lyase
+//
+ID	AT4G13820
+NAME	AT4G13820
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G04910
+NAME	AT4G04910
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G24350
+NAME	AT4G24350
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G25160
+NAME	AT4G25160
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G33180
+NAME	AT4G33180
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G32370
+NAME	AT4G32370
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G08070
+NAME	AT4G08070
+PRODUCT-TYPE	P
+FUNCTION	isocitrate dehydrogenase (NADP+)
+//
+ID	AT4G25080
+NAME	AT4G25080
+PRODUCT-TYPE	P
+FUNCTION	magnesium protoporphyrin IX methyltransferase
+//
+ID	AT4G15280
+NAME	AT4G15280
+PRODUCT-TYPE	P
+FUNCTION	UDP-glycosyltransferase
+//
+ID	AT4G13660
+NAME	AT4G13660
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on NADH or NADPH
+//
+ID	AT4G09205
+NAME	AT4G09205
+PRODUCT-TYPE	P
+FUNCTION	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+//
+ID	AT4G21760
+NAME	AT4G21760
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G22570
+NAME	AT4G22570
+PRODUCT-TYPE	P
+FUNCTION	adenine phosphoribosyltransferase
+FUNCTION	orotate phosphoribosyltransferase
+//
+ID	AT4G20870
+NAME	AT4G20870
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G32375
+NAME	AT4G32375
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G38990
+NAME	AT4G38990
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G28000
+NAME	AT4G28000
+PRODUCT-TYPE	P
+FUNCTION	ATPase
+//
+ID	AT4G19010
+NAME	AT4G19010
+PRODUCT-TYPE	P
+FUNCTION	4-coumarate-CoA ligase
+//
+ID	AT4G26300
+NAME	AT4G26300
+PRODUCT-TYPE	P
+FUNCTION	arginine-tRNA ligase
+//
+ID	AT4G33510
+NAME	AT4G33510
+PRODUCT-TYPE	P
+FUNCTION	3-deoxy-7-phosphoheptulonate synthase
+//
+ID	AT4G26220
+NAME	AT4G26220
+PRODUCT-TYPE	P
+FUNCTION	caffeoyl-CoA O-methyltransferase
+//
+ID	AT4G34240
+NAME	AT4G34240
+PRODUCT-TYPE	P
+FUNCTION	aldehyde dehydrogenase
+//
+ID	AT4G33430
+NAME	AT4G33430
+PRODUCT-TYPE	P
+FUNCTION	kinase
+//
+ID	AT4G31810
+NAME	AT4G31810
+PRODUCT-TYPE	P
+FUNCTION	3-hydroxyisobutyryl-CoA hydrolase
+//
+ID	AT4G24520
+NAME	AT4G24520
+PRODUCT-TYPE	P
+FUNCTION	NADPH-hemoprotein reductase
+//
+ID	AT4G26140
+NAME	AT4G26140
+PRODUCT-TYPE	P
+FUNCTION	beta-galactosidase
+//
+ID	AT4G32540
+NAME	AT4G32540
+PRODUCT-TYPE	P
+FUNCTION	monooxygenase
+//
+ID	AT4G15530
+NAME	AT4G15530
+PRODUCT-TYPE	P
+FUNCTION	pyruvate, water dikinase
+//
+ID	AT4G16340
+NAME	AT4G16340
+PRODUCT-TYPE	P
+FUNCTION	acetolactate synthase
+//
+ID	AT4G08160
+NAME	AT4G08160
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G16260
+NAME	AT4G16260
+PRODUCT-TYPE	P
+FUNCTION	hydrolase, hydrolyzing O-glycosyl compounds
+//
+ID	AT4G25170
+NAME	AT4G25170
+PRODUCT-TYPE	P
+FUNCTION	ATPase, coupled to transmembrane movement of ions, phosphorylative mechanism
+//
+ID	AT4G32380
+NAME	AT4G32380
+PRODUCT-TYPE	P
+FUNCTION	polygalacturonase
+//
+ID	AT4G06622
+NAME	AT4G06622
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G25090
+NAME	AT4G25090
+PRODUCT-TYPE	P
+FUNCTION	superoxide-generating NADPH oxidase
+//
+ID	AT4G15290
+NAME	AT4G15290
+PRODUCT-TYPE	P
+FUNCTION	cellulose synthase
+//
+ID	AT4G20960
+NAME	AT4G20960
+PRODUCT-TYPE	P
+FUNCTION	hydrolase
+//
+ID	AT4G21770
+NAME	AT4G21770
+PRODUCT-TYPE	P
+FUNCTION	pseudouridylate synthase
+//
+ID	AT4G22580
+NAME	AT4G22580
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G21690
+NAME	AT4G21690
+PRODUCT-TYPE	P
+FUNCTION	gibberellin 3-beta-dioxygenase
+//
+ID	AT4G06544
+NAME	AT4G06544
+PRODUCT-TYPE	P
+FUNCTION	catalytic
+//
+ID	AT4G07355
+NAME	AT4G07355
+PRODUCT-TYPE	P
+FUNCTION	triacylglycerol lipase
+//
+ID	AT4G39970
+NAME	AT4G39970
+PRODUCT-TYPE	P
+FUNCTION	phosphoglycolate phosphatase
+//
+ID	OHP
+NAME	OHP
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen
+//

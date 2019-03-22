@@ -1,0 +1,254 @@
+#field 7 DB:Reference errors: 0 errors
+
+#field 8 Evidence Code errors: 245 errors
+AraCyc	AT5G35630-MONOMER	AT5G35630.1		GO:0009507	PMID:15273293	ERROR		C	glutamine synthetase	GLN2|At5g35630|AT5G35630.1	protein	taxon:		
+AraCyc	AT5G35630-MONOMER	AT5G35630.1		GO:0005739	PMID:15273293	ERROR		C	glutamine synthetase	GLN2|At5g35630|AT5G35630.1	protein	taxon:		
+AraCyc	ATCG00500-MONOMER	ATCG00500.1		GO:0009507	PMID:10759501	ERROR		C	acetyl-CoA carboxyltransferase beta	ATCG00500.1|ACCD|ATCG00500.1	protein	taxon:		
+AraCyc	CPLX-8304	cyanase		GO:0005829	PMID:21166475	ERROR		C	cyanase	cyanase|cyanate lyase|cyanate hydrolase	protein	taxon:		
+AraCyc	ATMG00730-MONOMER	ATMG00730.1		GO:0044455	PMID:15604729	ERROR		C	complex IV subunit 3	COX3|atMg00730|ATMG00730.1	protein	taxon:		
+AraCyc	AT2G47510-MONOMER	AT2G47510.1		GO:0005739	PMID:20202172	ERROR		C	fumarate hydratase	FUM1|AT2G47510.1	protein	taxon:		
+AraCyc	AT1G79530-MONOMER	AT1G79530.1		GO:0009536	PMID:19675149	ERROR		C	glyceraldehyde-3-phosphate dehydrogenase	GapCp-1|AT1G79530.1	protein	taxon:		
+AraCyc	AT1G74090-MONOMER	AT1G74090.1		GO:0005737	PMID:16367753	ERROR		C	desulfoglucosinolate sulfotransferase	AtSOT18|AtST5b|AT1G74090.1	protein	taxon:		
+AraCyc	MONOMER-11913	phytyl-P kinase		GO:0016020	PMID:16306049	ERROR		C	phytyl-P kinase		protein	taxon:		
+AraCyc	MONOMER-11913	phytyl-P kinase		GO:0031969	PMID:16306049	ERROR		C	phytyl-P kinase		protein	taxon:		
+AraCyc	AT4G20870-MONOMER	AT4G20870.1		GO:0005783	PMID:19054355	ERROR		C	sphingolipid fatty acid alpha-hydroxylase	AT4G20870.1|FAH2|AT4G20870.1	protein	taxon:		
+AraCyc	AT5G48545-MONOMER	AT5G48545.1		GO:0005777	PMID:19329564	ERROR		C	adenylysulfate sulfohydrolase	AT5G48545.1|HINT3|HISTIDINE TRIAD NUCLEOTIDE-BINDING 3|AT5G48545.1	protein	taxon:		
+AraCyc	ATMG01360-MONOMER	ATMG01360.1		GO:0044455	PMID:15604729	ERROR		C	complex IV subunit 1	COX1|atMg01360|ATMG01360.1	protein	taxon:		
+AraCyc	AT5G65780-MONOMER	AT5G65780.1		GO:0009507	PMID:12068099	ERROR		C	branched-chain-amino-acid transaminase	Atbact-5|AT5G65780.1	protein	taxon:		
+AraCyc	CPLX-5323	complex IV		GO:0044455	AraCyc_REF:dey97	ERROR		C	complex IV	complex IV	protein	taxon:		
+AraCyc	CPLXQT-36	pyruvate kinase		GO:0009570	PMID:17557808	ERROR		C	pyruvate kinase		protein	taxon:		
+AraCyc	CPLXQT-30	AT1G78660.1		GO:0005773	PMID:15961386	ERROR		C	gamma-glutamyl hydrolase		protein	taxon:		
+AraCyc	AT5G25880-MONOMER	AT5G25880.1		GO:0005829	PMID:19725876	ERROR		C	NADP-malic enzyme	NADP-ME3|AT5G25880.1	protein	taxon:		
+AraCyc	AT5G18860-MONOMER	AT5G18860.1		GO:0005576	PMID:15769804	ERROR		C	purine nucleoside hydrolase	NSH3|nucleoside hydrolase 3|AT5G18860.1	protein	taxon:		
+AraCyc	AT5G18860-MONOMER	AT5G18860.1		GO:0009505	PMID:14595688	ERROR		C	purine nucleoside hydrolase	NSH3|nucleoside hydrolase 3|AT5G18860.1	protein	taxon:		
+AraCyc	AT4G28680-MONOMER	AT4G28680.2		GO:0005737	PMID:19450582	ERROR		C	tyrosine decarboxylase	AT4G28680.2|TYRDC1|TYRDC|AT4G28680.2	protein	taxon:		
+AraCyc	AT4G23100-MONOMER	AT4G23100.1		GO:0009507	PMID:18431481	ERROR		C	glutamate-cysteine ligase	AT4G23100.1|GSHA|GSH1|CAD2|ECS1|PAD2|RML1|AT4G23100.1	protein	taxon:		
+AraCyc	AT4G23100-MONOMER	AT4G23100.1		GO:0009507	AraCyc_REF: 15028209 	ERROR		C	glutamate-cysteine ligase	AT4G23100.1|GSHA|GSH1|CAD2|ECS1|PAD2|RML1|AT4G23100.1	protein	taxon:		
+AraCyc	AT4G23100-MONOMER	AT4G23100.1		GO:0009507	PMID:15610346	ERROR		C	glutamate-cysteine ligase	AT4G23100.1|GSHA|GSH1|CAD2|ECS1|PAD2|RML1|AT4G23100.1	protein	taxon:		
+AraCyc	AT4G23100-MONOMER	AT4G23100.1		GO:0009570	PMID:16207701	ERROR		C	glutamate-cysteine ligase	AT4G23100.1|GSHA|GSH1|CAD2|ECS1|PAD2|RML1|AT4G23100.1	protein	taxon:		
+AraCyc	AT3G17810-MONOMER	DHPDH		GO:0009536	PMID:19413687	ERROR		C	dihydropyrimidine dehydrogenase	AT3G17810.1|PYD1|AT3G17810.1	protein	taxon:		
+AraCyc	AT3G06060-MONOMER	AT3G06060.1		GO:0005789	PMID:21421810	ERROR		C	3-ketodihydrosphinganine reductase	TSC10A|AT3G06060.1	protein	taxon:		
+AraCyc	AT1G07780-MONOMER	AT1G07780.3		GO:0009536	PMID:7773017	ERROR		C	phosphoribosylanthranilate isomerase	AT1G07780.3|TRP6|PAI1|AT1G07780.3	protein	taxon:		
+AraCyc	AT2G13360-MONOMER	AT2G13360.1		GO:0005777	PMID:11309139	ERROR		C	alanine:glyoxylate transaminase [multifunctional]	AGT1|AT2G13360.1	protein	taxon:		
+AraCyc	AT1G67560-MONOMER	AT1G67560.1		GO:0009507	PMID:15322131	ERROR		C	lipoxygenase	LOX6|AT1G67560.1	protein	taxon:		
+AraCyc	AT2G44350-MONOMER	AT2G44350.2		GO:0005739	PMID:17137349	ERROR		C	citrate synthase (mitochondrial)	AT2G44350.2|CS|CSY4|AT2G44350.2	protein	taxon:		
+AraCyc	CPLX-4585	AT5G16570.1		GO:0005829	PMID:14757761	ERROR		C	glutamine synthetase		protein	taxon:		
+AraCyc	AT4G19680-MONOMER	AT4G19680.2		GO:0015684	PMID:11389759	ERROR		P	iron regulated transporter	AT4G19680.2|IRT2|AT4G19680.2	protein	taxon:		
+AraCyc	AT4G19680-MONOMER	AT4G19680.2		GO:0006826	PMID:11389759	ERROR		P	iron regulated transporter	AT4G19680.2|IRT2|AT4G19680.2	protein	taxon:		
+AraCyc	AT4G19680-MONOMER	AT4G19680.2		GO:0034755	PMID:11389759	ERROR		P	iron regulated transporter	AT4G19680.2|IRT2|AT4G19680.2	protein	taxon:		
+AraCyc	AT1G52400-MONOMER	AT1G52400.1		GO:0005783	PMID:16990135	ERROR		C	abscisic acid glucose ester beta-glucosidase	BG1|AT1G52400.1	protein	taxon:		
+AraCyc	MONOMER-3261	2-methyl-6-geranylgeranyl-1,4-benzoquinol methyltransferase [multifunctional]		GO:0009507	PMID:12787252	ERROR		C	2-methyl-6-geranylgeranyl-1,4-benzoquinol methyltransferase [multifunctional]	VTE3|APG1|At3g63410	protein	taxon:		
+AraCyc	AT3G15020-MONOMER	AT3G15020.1		GO:0005739	PMID:14671022	ERROR		C	malate dehydrogenase	mMDH2|AT3G15020.1	protein	taxon:		
+AraCyc	AT1G22940-MONOMER	AT1G22940.1		GO:0009507	PMID:17174261	ERROR		C	HMP-P kinase//thiamin-monophosphate pyrophosphorylase	TH1|TH-1|AT1G22940.1	protein	taxon:		
+AraCyc	AT2G40890-MONOMER	C3H		GO:0005783	PMID:11967091	ERROR		C	AT2G40890.1 [multifunctional]	REF8|At2g40890|CYP98A3|AT2G40890.1	protein	taxon:		
+AraCyc	AT3G53900-MONOMER	AT3G53900.2		GO:0009536	PMID:19563437	ERROR		C	uracil phosphoribosyltransferase	AT3G53900.2|UPP|PYRR|AT3G53900.2	protein	taxon:		
+AraCyc	AT2G46390-MONOMER	AT2G46390.1		GO:0044455	AraCyc_REF:dey97	ERROR		C	complex II subunit 8	SDH8|at2g46390|AT2G46390.1	protein	taxon:		
+AraCyc	AT5G15650-MONOMER	AT5G15650.1		GO:0005829	PMID:21478444	ERROR		C	UDP-L-arabinose mutase	RGP2|AT5G15650.1	protein	taxon:		
+AraCyc	AT5G15650-MONOMER	AT5G15650.1		GO:0005794	PMID:21478444	ERROR		C	UDP-L-arabinose mutase	RGP2|AT5G15650.1	protein	taxon:		
+AraCyc	AT5G54810-MONOMER	AT5G54810.1		GO:0009536	PMID:1840915	ERROR		C	tryptophan synthase, beta subunit	AT5G54810.1|TRPB|TRP2|TSB1|AT5G54810.1	protein	taxon:		
+AraCyc	AT5G57220-MONOMER	AT5G57220.1		GO:0005792	PMID:19293369	ERROR		ERROR	CYP81F2 monooxygenase	AT5G57220.1|CYP81F2|AT5G57220.1	protein	taxon:		
+AraCyc	CPLXQT-37	pyruvate kinase		GO:0009570	PMID:17557808	ERROR		C	pyruvate kinase		protein	taxon:		
+AraCyc	AT1G69190-MONOMER	AT1G69190.1		GO:0005829	PMID:17289662	ERROR		C	hydroxymethyldihydropterin pyrophosphokinase/ dihydropteroate synthase	HPPK/DHPS2|AT1G69190.1	protein	taxon:		
+AraCyc	AT1G48470-MONOMER	AT1G48470.1		GO:0005829	PMID:14757761	ERROR		C	glutamate-ammonia ligase	GLN1;5|AT1G48470.1	protein	taxon:		
+AraCyc	AT1G04620-MONOMER	71-hydroxychlorophyll a reductase		GO:0009507	PMID:21934147	ERROR		C	71-hydroxychlorophyll a reductase	HCAR	protein	taxon:		
+AraCyc	AT1G04710-MONOMER	AT1G04710.1		GO:0005777	PMID:17120136	ERROR		C	3-ketoacyl-CoA thiolase	KAT1|AT1G04710.1	protein	taxon:		
+AraCyc	AT5G05590-MONOMER	AT5G05590.1		GO:0009536	PMID:7773017	ERROR		C	phosphoribosylanthranilate isomerase	AT5G05590.1|PAI2|AT5G05590.1	protein	taxon:		
+AraCyc	CPLXQT-3	3-methylcrotonyl-CoA carboxylase		GO:0005739	PMID:12068107	ERROR		C	3-methylcrotonyl-CoA carboxylase		protein	taxon:		
+AraCyc	MONOMER-3281	tocopherol cyclase		GO:0009507	PMID:12213958	ERROR		C	tocopherol cyclase	VTE1|At4g32770	protein	taxon:		
+AraCyc	AT5G10480-MONOMER	HACD		GO:0005789	PMID:18799749	ERROR		C	very-long-chain 3-hydroxyacyl-CoA dehydratase	PAS2|AT5G10480.3	protein	taxon:	20120406	AraCyc
+AraCyc	AT3G47833-MONOMER	AT3G47833.1		GO:0044455	AraCyc_REF:dey97	ERROR		C	complex II subunit 7	SDH7A|at3g47833|AT3G47833.1	protein	taxon:		
+AraCyc	AT2G26930-MONOMER	AT2G26930.1		GO:0009507	PMID:18236010	ERROR		C	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	AT2G26930.1|PDE277|ISPE|CDPMEK|IspE|CMK|CMEK|AT2G26930.1	protein	taxon:		
+AraCyc	AT2G29630-MONOMER	AT2G29630.2		GO:0009507	PMID:18332905	ERROR		C	HMP-P synthase	ThiC|AT2G29630.2	protein	taxon:		
+AraCyc	AT2G29630-MONOMER	AT2G29630.2		GO:0009570	PMID:18048325	ERROR		C	HMP-P synthase	ThiC|AT2G29630.2	protein	taxon:		
+AraCyc	AT1G24280-MONOMER	AT1G24280.1		GO:0009536	PMID:15634201	ERROR		C	glucose-6-phosphate 1-dehydrogenase	G6PD3|AT1G24280.1	protein	taxon:		
+AraCyc	AT1G47420-MONOMER	AT1G47420.1		GO:0044455	AraCyc_REF:dey97	ERROR		C	complex II subunit 5	SDH5|at1g47420|AT1G47420.1	protein	taxon:		
+AraCyc	AT1G23310-MONOMER	AT1G23310.1		GO:0005777	PMID:12631323	ERROR		C	alanine transaminase	AOAT1|GGAT1|AT1G23310.1	protein	taxon:		
+AraCyc	CPLX-7044	serine palmitoyltransferase		GO:0005789	PMID:11726713	ERROR		C	serine palmitoyltransferase		protein	taxon:		
+AraCyc	AT1G02880-MONOMER	AT1G02880.3		GO:0005829	PMID:17611796	ERROR		C	thiamin pyrophosphokinase	TPK1|AtTPK1|Thiamine pyrophosphokinase|AT1G02880.3	protein	taxon:		
+AraCyc	AT2G13560-MONOMER	AT2G13560.1		GO:0005739	PMID:14671022	ERROR		C	NAD-dependent malic enzyme	NAD-ME1|AT2G13560.1	protein	taxon:		
+AraCyc	AT2G42790-MONOMER	AT2G42790.1		GO:0005777	PMID:15923350	ERROR		C	citrate synthase	AT2G42790.1|CSY3|AT2G42790.1	protein	taxon:		
+AraCyc	AT4G35650-MONOMER	AT4G35650.1		GO:0005739	PMID:14671022	ERROR		C	NAD+-dependent isocitrate dehydrogenase regulatory subunit	IDH-III|AT4G35650.1	protein	taxon:		
+AraCyc	AT5G23190-MONOMER	CYP86B1		GO:0005783	PMID:19525321	ERROR		C	alkane 1-monooxygenase / very long chain fatty acid omega-hydroxylase	CYP86B1|AT5G23190.1	protein	taxon:		
+AraCyc	AT1G50170-MONOMER	AT1G50170.1		GO:0009507	PMID:15545265	ERROR		C	sirohydrochlorin ferrochelatase	AtSirB|At1g50170|AT1G50170.1	protein	taxon:		
+AraCyc	AT1G43620-MONOMER	UGT80B1		GO:0005774	PMID:17151019	ERROR		C	3beta-hydroxy sterol glucosyltransferase	UGT80B1|AT1G43620.1	protein	taxon:		
+AraCyc	AT3G23630-MONOMER	AT3G23630.1		GO:0005739	PMID:14726522	ERROR		C	adenylate dimethylallyltransferase	IPT7|isopentenyltransferase7|at3g23630|AT3G23630.1	protein	taxon:		
+AraCyc	AT3G47520-MONOMER	AT3G47520.1		GO:0009507	PMID:9774405	ERROR		C	malate dehydrogenase	pNAD-MDH|MDH|AT3G47520.1	protein	taxon:		
+AraCyc	AT3G11945-MONOMER	AT3G11945.2		GO:0009941	PMID:17569077	ERROR		C	homogentisate solanesyltransferase	PDS2|HST|AT3G11945.2	protein	taxon:		
+AraCyc	AT1G67080-MONOMER	AT1G67080.1		GO:0031969	PMID:12766230	ERROR		C	neoxanthin synthase non-catalytic putative component	ABA4|AT1G67080.1	protein	taxon:		
+AraCyc	AT2G21330-MONOMER	AT2G21330.1		GO:0009507	PMID:16414959	ERROR		C	fructose-bisphosphate aldolase (plastidic)	AT2G21330.1|FBA1|AT2G21330.1	protein	taxon:		
+AraCyc	AT2G21330-MONOMER	AT2G21330.1		GO:0009570	PMID:15028209	ERROR		C	fructose-bisphosphate aldolase (plastidic)	AT2G21330.1|FBA1|AT2G21330.1	protein	taxon:		
+AraCyc	AT5G13110-MONOMER	AT5G13110.1		GO:0009536	PMID:15634201	ERROR		C	glucose-6-phosphate 1-dehydrogenase	G6PD2|AT5G13110.1	protein	taxon:		
+AraCyc	CPLXQT-52	AT2G13560.1		GO:0005739	PMID:17137349	ERROR		C	NAD-dependent malic enzyme	NAD-dependent malic enzyme|NAD-ME1 homodimer	protein	taxon:		
+AraCyc	AT1G53240-MONOMER	AT1G53240.1		GO:0005739	PMID:14671022	ERROR		C	malate dehydrogenase	mMDH1|AT1G53240.1	protein	taxon:		
+AraCyc	AT5G05730-MONOMER	AT5G05730.2		GO:0009536	PMID:1392592	ERROR		C	anthranilate synthase	AT5G05730.2|WEI2|TRP5|JDL1|AMT1|ASA1|AT5G05730.2	protein	taxon:		
+AraCyc	AT3G58750-MONOMER	AT3G58750.1		GO:0005777	PMID:15923350	ERROR		C	citrate synthase	AT3G58750.1|CSY2|AT3G58750.1	protein	taxon:		
+AraCyc	AT3G27300-MONOMER	AT3G27300.1		GO:0005829	PMID:15634201	ERROR		C	glucose-6-phosphate 1-dehydrogenase	G6PD5|AT3G27300.1	protein	taxon:		
+AraCyc	AT4G39120-MONOMER	AT4G39120.1		GO:0009507	PMID:20023146	ERROR		C	inositol-phosphate phosphatase [multifunctional]	HISN7|IMPL2|AT4G39120.1	protein	taxon:		
+AraCyc	AT5G04660-MONOMER	CYP77A4		GO:0005792	PMID:19120447	ERROR		ERROR	CYP77A4	AT5G04660.1|CYP77A4|AT5G04660.1	protein	taxon:		
+AraCyc	AT1G18590-MONOMER	AT1G18590.1		GO:0005737	PMID:16367753	ERROR		C	desulfoglucosinolate sulfotransferase	AtSOT17|AtST5c|AT1G18590.1	protein	taxon:		
+AraCyc	AT4G29210-MONOMER	AT4G29210.1		GO:0005773	PMID:17316176	ERROR		C	glutathione gamma-glutamylcysteinyltransferase	AT4G29210.1|GGT4|GGT3|GGT3 (first used in Ohkama-Ohtsu in 2007)|GGT4 (consensus name)|AT4G29210.1	protein	taxon:		
+AraCyc	AT2G47380-MONOMER	AT2G47380.1		GO:0044455	PMID:15604729	ERROR		C	complex IV subunit 5c	COXVc|at2g47380|AT2G47380.1	protein	taxon:		
+AraCyc	CPLX-1326	OasC		GO:0005739	PMID:10940562	ERROR		C	O-acetylserine (thiol) lyase	OAS-TL|cysteine synthase	protein	taxon:		
+AraCyc	AT1G29410-MONOMER	AT1G29410.2		GO:0009536	PMID:7773017	ERROR		C	phosphoribosylanthranilate isomerase	AT1G29410.2|PAI3|AT1G29410.2	protein	taxon:		
+AraCyc	AT1G76490-MONOMER	AT1G76490.1		GO:0005788	PMID:15618432	ERROR		C	3-hydroxy-3-methylglutaryl coenzyme A reductase	HMG1|AT1G76490.1	protein	taxon:		
+AraCyc	AT1G76490-MONOMER	AT1G76490.1		GO:0005773	PMID:15618432	ERROR		C	3-hydroxy-3-methylglutaryl coenzyme A reductase	HMG1|AT1G76490.1	protein	taxon:		
+AraCyc	AT1G76490-MONOMER	AT1G76490.1		GO:0005737	PMID:15618432	ERROR		C	3-hydroxy-3-methylglutaryl coenzyme A reductase	HMG1|AT1G76490.1	protein	taxon:		
+AraCyc	AT4G16820-MONOMER	AT4G16820.1		GO:0009507	PMID:19682287	ERROR		C	triacylglycerol lipase	AT4G16820.1|PLA-I{beta]2|AT4G16820.1	protein	taxon:		
+AraCyc	AT5G19550-MONOMER	AT5G19550.1		GO:0005829	PMID:12068109	ERROR		C	aspartate transaminase	ASP2|AT5G19550.1	protein	taxon:		
+AraCyc	AT2G36190-MONOMER	AT2G36190.1		GO:0005618	PMID:19861655	ERROR		C	cell wall invertase	cwINV4|AT2G36190.1	protein	taxon:		
+AraCyc	AT5G56760-MONOMER	SAT-52		GO:0005829	PMID:9830017	ERROR		C	serine O-acetyltransferase	SAT5|At5g56760|serat1;1|AT5G56760.1	protein	taxon:		
+AraCyc	AT1G76150-MONOMER	AT1G76150.1		GO:0005777	PMID:16982622	ERROR		C	enoyl-CoA hydratase 2	AT1G76150.1|ECH2|AT1G76150.1	protein	taxon:		
+AraCyc	CPLXQT-31	AT1G78680.1		GO:0005773	PMID:15961386	ERROR		C	folylpolyglutamate gamma-glutamyl hydrolase		protein	taxon:		
+AraCyc	AT5G41480-MONOMER	AT5G41480.1		GO:0005759	PMID:11752472	ERROR		C	dihydrofolate synthetase	DFA|At5g41480|AtDFA|GLA1|AT5G41480.1	protein	taxon:		
+AraCyc	AT1G74100-MONOMER	AT1G74100.1		GO:0005737	PMID:16367753	ERROR		C	desulfoglucosinolate sulfotransferase	AtSOT16|CORI-7|AtST5a|AT1G74100.1	protein	taxon:		
+AraCyc	AT5G22510-MONOMER	AT5G22510.1		GO:0009507	PMID:18034262	ERROR		C	alkaline/neutral invertase	A/N-InvE|AT5G22510.1	protein	taxon:		
+AraCyc	AT4G05530-MONOMER	AT4G05530.1		GO:0005777	PMID:17951448	ERROR		C	3-hydroxyacyl-CoA dehydrogenase	IBR1|AT4G05530.1	protein	taxon:		
+AraCyc	AT1G79750-MONOMER	AT1G79750.1		GO:0009536	PMID:16113210	ERROR		C	NADP-malic enzyme	NADP-ME4|AT1G79750.1	protein	taxon:		
+AraCyc	AT1G79750-MONOMER	AT1G79750.1		GO:0009507	PMID:19807880	ERROR		C	NADP-malic enzyme	NADP-ME4|AT1G79750.1	protein	taxon:		
+AraCyc	AT4G11600-MONOMER	AT4G11600.1		GO:0005829	PMID:14617062	ERROR		C	phospholipid-hydroperoxide glutathione peroxidase	GPX6|AT4G11600.1	protein	taxon:		
+AraCyc	AT4G11600-MONOMER	AT4G11600.1		GO:0005739	PMID:14617062	ERROR		C	phospholipid-hydroperoxide glutathione peroxidase	GPX6|AT4G11600.1	protein	taxon:		
+AraCyc	AT4G00570-MONOMER	AT4G00570.1		GO:0005739	PMID:14671022	ERROR		C	NAD-dependent malic enzyme	NAD-ME2|AT4G00570.1	protein	taxon:		
+AraCyc	CPLX-7518	AT5G58220.1		GO:0005777	PMID:20511299	ERROR		C	S-allantoin synthase	S-allantoin synthase|hydroxyisourate hydrolase / OHCU decarboxylase	protein	taxon:		
+AraCyc	AT5G56660-MONOMER	AT5G56660.1		GO:0005783	PMID:10072397	ERROR		C	indole-3-acetyl-ala hydrolase	ill2|ILL2|AT5G56660.1	protein	taxon:		
+AraCyc	AT3G45140-MONOMER	LOX2		GO:0009507	PMID:15322131	ERROR		C	lipoxygenase	LOX2|at3g45140|AT3G45140.1	protein	taxon:		
+AraCyc	AT4G38970-MONOMER	AT4G38970.1		GO:0009507	PMID:15028209	ERROR		C	fructose-bisphosphate aldolase (plastidic)	AT4G38970.1|FBA2|AT4G38970.1	protein	taxon:		
+AraCyc	AT4G38970-MONOMER	AT4G38970.1		GO:0009570	PMID:16414959	ERROR		C	fructose-bisphosphate aldolase (plastidic)	AT4G38970.1|FBA2|AT4G38970.1	protein	taxon:		
+AraCyc	AT5G62575-MONOMER	AT5G62575.2		GO:0005743	AraCyc_REF:DEY97	ERROR		C	complex II subunit 7	SDH7B|at5g62575|AT5G62575.2	protein	taxon:		
+AraCyc	CPLX-4582	AT5G37600.1		GO:0005829	PMID:14757761	ERROR		C	glutamine synthetase		protein	taxon:		
+AraCyc	AT4G37870-MONOMER	AT4G37870.1		GO:0005829	PMID:19807880	ERROR		C	phosphoenolpyruvate carboxykinase	PCK1|PEPCK1|AT4G37870.1	protein	taxon:		
+AraCyc	AT2G14170-MONOMER	AT2G14170.1		GO:0005739	PMID:14764908	ERROR		C	3-chloroallyl aldehyde dehydrogenase	AT2G14170.1|ALDH6B2|AT2G14170.1	protein	taxon:		
+AraCyc	AT3G56490-MONOMER	AT3G56490.1		GO:0005777	PMID:19329564	ERROR		C	adenylylsulfate sulfohydrolase	AT3G56490.1|HINT1|HIT3|HISTIDINE TRIAD NUCLEOTIDE-BINDING 1|AT3G56490.1	protein	taxon:		
+AraCyc	AT1G17290-MONOMER	AT1G17290.1		GO:0005829	PMID:17319845	ERROR		C	alanine transaminase	AOAT4|AlaAT1|AT1G17290.1	protein	taxon:		
+AraCyc	AT2G44750-MONOMER	AT2G44750.2		GO:0005829	PMID:17611796	ERROR		C	thiamin pyrophosphokinase	TPK2|AtTPK2|Thiamine pyrophosphokinase 2|AT2G44750.2	protein	taxon:		
+AraCyc	CPLXQT-35	AT1G08490.1		GO:0009507	PMID:12427997	ERROR		C	selenocysteine lyase / cysteine desulfurase		protein	taxon:		
+AraCyc	CPLX-7280	GapA		GO:0009507	PMID:17031544	ERROR		C	A4-GADPH	A4-GADPH|glyceraldehyde-3-phosphate dehydrogenase (A4)	protein	taxon:		
+AraCyc	AT1G68010-MONOMER	HPR		GO:0005777	PMID:17951448	ERROR		C	hydroxypyruvate reductase	AT1G68010.2|HPR|HPR1|AT1G68010.2	protein	taxon:		
+AraCyc	AT1G68010-MONOMER	HPR		GO:0009507	PMID:18431481	ERROR		C	hydroxypyruvate reductase	AT1G68010.2|HPR|HPR1|AT1G68010.2	protein	taxon:		
+AraCyc	CPLXQT-54	NAD-dependent malic enzyme		GO:0005739	PMID:17137349	ERROR		C	NAD-dependent malic enzyme	NAD-dependent malic enzyme|NAD-MEH|NAD-ME heterodimer	protein	taxon:		
+AraCyc	AT5G66170-MONOMER	AT5G66170.2		GO:0005737	PMID:15181206	ERROR		C	thiosulfate sulfurtransferase	AT5G66170.2|STR18|AT5G66170.2	protein	taxon:		
+AraCyc	AT3G44880-MONOMER	AT3G44880.1		GO:0031969	PMID:16113212	ERROR		C	pheophorbide a oxygenase	PAO|ACD1|ACCELERATED DEATH 1|AT3G44880.1	protein	taxon:		
+AraCyc	AT4G34740-MONOMER	AT4G34740.1		GO:0009532	PMID:15266056	ERROR		C	amidophosphoribosyltransferase	AT4G34740.1|CIA1|PURF2|ASE2|AtPURF|PUR1|AT4G34740.1	protein	taxon:		
+AraCyc	AT2G31690-MONOMER	AT2G31690.1		GO:0009507	PMID:17259290	ERROR		C	triacylglycerol lipase	AT2G31690.1|AT2G31690.1	protein	taxon:		
+AraCyc	AT5G25265-MONOMER	hydroxyproline O-arabinosyltransferase		GO:0005801	PMID:24036508	ERROR		C	hydroxyproline O-arabinosyltransferase	HPAT1	protein	taxon:	20131102	AraCyc
+AraCyc	AT1G05620-MONOMER	AT1G05620.1		GO:0005829	PMID:21235647	ERROR		C	inosine nucleosidase	NSH2|nucleoside hydrolase 2|AT1G05620.1	protein	taxon:		
+AraCyc	AT3G22400-MONOMER	AT3G22400.1		GO:0009507	PMID:15322131	ERROR		C	lipoxygenase	LOX5|AT3G22400.1	protein	taxon:		
+AraCyc	AT3G55630-MONOMER	AT3G55630.3		GO:0005829	PMID:11752472	ERROR		C	folylpolyglutamate synthase	AT3G55630.3|FPGS3|DFD|At3g55630|AtDFD|At-DHFS/FPGS4|AT3G55630.3	protein	taxon:		
+AraCyc	CPLX-5263	complex I		GO:0044455	PMID:12837548	ERROR		C	complex I	complex I|NADH dehydrogenase complex|NADH-ubiquinone oxidoreductase	protein	taxon:		
+AraCyc	MONOMER-3282	delta-tocotrienol methyltransferase [multifunctional]		GO:0009507	PMID:9851934	ERROR		C	delta-tocotrienol methyltransferase [multifunctional]	G-TMT|At1g64970	protein	taxon:		
+AraCyc	AT1G80230-MONOMER	complex IV subunit 5b		GO:0044455	PMID:15604729	ERROR		C	complex IV subunit 5b	COXVb|at1g80230|AT1G80230.1	protein	taxon:		
+AraCyc	AT1G06800-MONOMER	AT1G06800.1		GO:0009507	PMID:19682287	ERROR		C	triacylglycerol lipase	AT1G06800.1|PLA-I{gamma}1|AT1G06800.1	protein	taxon:		
+AraCyc	CPLX-8032	AT4G16566.1		GO:0005777	PMID:19329564	ERROR		C	adenylylsulfate sulfohydrolase / adenylylsulfate:phosophate adenylyltransferase	adenylylsulfate sulfohydrolase / adenylylsulfate:phosophate adenylyltransferase|adenylylsulfate sulfohydrolase / ADP-sulfurylase	protein	taxon:		
+AraCyc	AT1G55180-MONOMER	AT1G55180.1		GO:0005886	PMID:19143999	ERROR		C	phospholipase D	PLD epsilon|AT1G55180.1	protein	taxon:		
+AraCyc	AT5G21060-MONOMER	AT5G21060.2		GO:0005829	PMID:21166475	ERROR		C	putative homoserine dehydrogenase	AT5G21060.2|AT5G21060.2	protein	taxon:		
+AraCyc	AT4G27030-MONOMER	AT4G27030.1		GO:0009507	PMID:19682287	ERROR		C	palmitate desaturase	fad4|AT4G27030.1	protein	taxon:		
+AraCyc	AT2G17130-MONOMER	AT2G17130.1		GO:0005739	PMID:14671022	ERROR		C	NAD+-dependent isocitrate dehydrogenase regulatory subunit	IDH-II|IDH2|AT2G17130.1	protein	taxon:		
+AraCyc	AT1G80860-MONOMER	AT1G80860.2		GO:0005792	PMID:19366698	ERROR		ERROR	phosphatidyl-N-dimethylethanolamine N-methyltransferase [multifunctional]	AT1G80860.2|PLMT|AT1G80860.2	protein	taxon:		
+AraCyc	AT5G37830-MONOMER	5OPase		GO:0005737	PMID:18768907	ERROR		C	5-oxoprolinase	AT5G37830.1|OXP1|AT5G37830.1	protein	taxon:		
+AraCyc	AT1G07890-MONOMER	AT1G07890.3		GO:0005829	PMID:8422923	ERROR		C	L-ascorbate peroxidase	APX1|AT1G07890.3	protein	taxon:		
+AraCyc	AT5G62790-MONOMER	AT5G62790.2		GO:0009507	PMID:12177470	ERROR		C	1-deoxy-D-xylulose-5-phosphate reductoisomerase	DXR|AT5G62790.2	protein	taxon:		
+AraCyc	AT4G31810-MONOMER	AT4G31810.1		GO:0005739	PMID:11743115	ERROR		C	3-hydroxyisobutyryl-CoA hydrolase	AT4G31810.1|AT4G31810.1	protein	taxon:		
+AraCyc	AT3G09810-MONOMER	AT3G09810.1		GO:0005739	PMID:14671022	ERROR		C	NAD+-dependent isocitrate dehydrogenase catalytic subunit	IDH-VI|AT3G09810.1	protein	taxon:		
+AraCyc	AT2G43360-CPLX	AT2G43360.1		GO:0044455	PMID:11706201	ERROR		C	biotin synthase		protein	taxon:		
+AraCyc	AT1G78510-MONOMER	AT1G78510.1		GO:0005783	PMID:15653808	ERROR		C	geranylgeranyl-diphosphate all-trans-nonaprenyl diphosphate synthase	SPS1|AT1G78510.1	protein	taxon:		
+AraCyc	CPLX-7214	AT5G27380.1		GO:0005829	PMID:15610346	ERROR		C	glutathione synthetase		protein	taxon:		
+AraCyc	CPLX-7214	AT5G27380.1		GO:0009507	PMID:15610346	ERROR		C	glutathione synthetase		protein	taxon:		
+AraCyc	AT1G05800-MONOMER	AT1G05800.1		GO:0009507	PMID:18267087	ERROR		C	galactolipase / phospholipase A1 / triacylglycerol lipase	AT1G05800.1|DGL|AT1G05800.1	protein	taxon:		
+AraCyc	AT4G35640-MONOMER	AT4G35640.1		GO:0005829	PMID:15579666	ERROR		C	serine O-acetyltransferase	SAT4|serat3;2|AT4G35640.1	protein	taxon:		
+AraCyc	AT3G49680-MONOMER	AT3G49680.1		GO:0009507	PMID:12068099	ERROR		C	branched-chain amino acid aminotransferase//branched-chain-amino-acid transaminase	Atbcat-3|AT3G49680.1	protein	taxon:		
+AraCyc	AT2G30550-MONOMER	AT2G30550.2		GO:0009507	PMID:19682287	ERROR		C	triacylglycerol lipase	AT2G30550.2|AT2G30550.2	protein	taxon:		
+AraCyc	AT5G65940-MONOMER	AT5G65940.1		GO:0005777	PMID:11404361	ERROR		C	3-hydroxyisobutyryl-CoA hydrolase	AT5G65940.1|CHY1|AT5G65940.1	protein	taxon:		
+AraCyc	AT4G35260-MONOMER	AT4G35260.1		GO:0005739	PMID:14671022	ERROR		C	NAD+-dependent isocitrate dehydrogenase regulatory subunit	IDH-I|IDH1|AT4G35260.1	protein	taxon:		
+AraCyc	AT5G44630-MONOMER	AT5G44630.1		GO:0005829	PMID:12207221	ERROR		C	(+)-alpha-barbatene synthase [multifunctional]	AT5G44630.1|AT5G44630.1	protein	taxon:		
+AraCyc	MONOMER-8804	AT2G07727.1		GO:0044455	PMID:11870776	ERROR		C	cytochrome b	AT2G07727.1|COB|CYTB|AT2G07727.1	protein	taxon:		
+AraCyc	CPLX-4562	SMT2		GO:0005783	PMID:12215504	ERROR		C	sterol methyltransferase	sterol methyltransferase|SMT2	protein	taxon:		
+AraCyc	AT3G63110-MONOMER	AT3G63110.1		GO:0009536	PMID:14726522	ERROR		C	adenylate dimethylallyltransferase	IPT3|isopentenyltransferase3|at3g63110|AT3G63110.1	protein	taxon:		
+AraCyc	AT3G10160-MONOMER	AT3G10160.1		GO:0005759	PMID:11752472	ERROR		C	folylpolyglutamate synthetase	AT3G10160.1|FPGS2|At3g10160|AtDFC|At-DHFS/FPGS3|DFC|AT3G10160.1	protein	taxon:		
+AraCyc	AT3G02875-MONOMER	AT3G02875.1		GO:0005783	PMID:10072397	ERROR		C	indole-3-acetyl-leu hydrolase	ilr1|At3g02875|AT3G02875.1	protein	taxon:		
+AraCyc	AT1G70580-MONOMER	AT1G70580.1		GO:0005777	PMID:12631323	ERROR		C	alanine transaminase	AOAT2|GGAT2|AT1G70580.1	protein	taxon:		
+AraCyc	CPLX-1427	AT2G44810.1		GO:0009507	PMID:18267087	ERROR		C	phospholipase A2</small / phospholipase A1		protein	taxon:		
+AraCyc	AT5G36880-MONOMER	AT5G36880.2		GO:0009536	PMID:10859180	ERROR		C	acetate-CoA ligase	AT5G36880.2|ACS|AT5G36880.2	protein	taxon:		
+AraCyc	AT4G34350-MONOMER-9581	AT4G34350.1		GO:0009532	PMID:15863698	ERROR		C	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase	IspH|AT4G34350.1	protein	taxon:		
+AraCyc	AT2G33150-MONOMER	AT2G33150.1		GO:0005739	PMID:14764908	ERROR		C	3-ketoacyl-CoA thiolase	KAT2|AT2G33150.1	protein	taxon:		
+AraCyc	AT2G33150-MONOMER	AT2G33150.1		GO:0005777	PMID:17120136	ERROR		C	3-ketoacyl-CoA thiolase	KAT2|AT2G33150.1	protein	taxon:		
+AraCyc	AT1G08480-MONOMER	AT1G08480.1		GO:0044455	AraCyc_REF:dey97	ERROR		C	complex II subunit 6	SDH6|at1g08480|AT1G08480.1	protein	taxon:		
+AraCyc	AT1G55920-MONOMER	SAT1		GO:0009507	PMID:9830017	ERROR		C	serine O-acetyltransferase	SAT1|At1g55920|serat2;1|AT1G55920.1	protein	taxon:		
+AraCyc	AT1G55920-MONOMER	SAT1		GO:0005829	PMID:9830017	ERROR		C	serine O-acetyltransferase	SAT1|At1g55920|serat2;1|AT1G55920.1	protein	taxon:		
+AraCyc	AT5G49190-MONOMER	AT5G49190.1		GO:0005829	PMID:18701523	ERROR		C	sucrose synthase	SUS2|AT5G49190.1	protein	taxon:		
+AraCyc	AT5G49190-MONOMER	AT5G49190.1		GO:0009536	PMID:18701523	ERROR		C	sucrose synthase	SUS2|AT5G49190.1	protein	taxon:		
+AraCyc	AT1G56560-MONOMER	AT1G56560.1		GO:0005739	PMID:21441406	ERROR		C	neutral invertase	A/N-InvA|AT1G56560.1	protein	taxon:		
+AraCyc	AT3G45300-MONOMER	AT3G45300.1		GO:0005739	AraCyc_REF:DASCHNER01	ERROR		C	isovaleryl-CoA dehydrogenase	AT3G45300.1|IVDH|IVD|AT3G45300.1	protein	taxon:		
+AraCyc	AT5G62530-MONOMER	AT5G62530.1		GO:0005739	PMID:11532180	ERROR		C	1-pyrroline-5-carboxylate dehydrogenase	AT5G62530.1|P5CDH|ALDH12A1|AT5G62530.1	protein	taxon:		
+AraCyc	CPLX-5321	complex III		GO:0044455	AraCyc_REF:dey97	ERROR		C	complex III	complex III|cytochrome <i>c</i> reductase|cyt <i>bc<sub>1</sub></i> complex|ubiquinol-cytochrome <i>c</i> oxidoreductase	protein	taxon:		
+AraCyc	AT2G22780-MONOMER	AT2G22780.1		GO:0005777	PMID:17376163	ERROR		C	malate dehydrogenase	PMDH1|AT2G22780.1	protein	taxon:		
+AraCyc	AT2G18700-MONOMER	AT2G18700.1		GO:0005739	PMID:14671022	ERROR		C	transferase, transferring glycosyl groups	TPS11|TPSB|AT2G18700.1	protein	taxon:		
+AraCyc	AT4G02610-MONOMER	AT4G02610.1		GO:0009507	PMID:7890741	ERROR		C	tryptophan synthase	AT4G02610.1|TSA1|AT4G02610.1	protein	taxon:		
+AraCyc	CPLX-4584	AT3G17820.1		GO:0005829	PMID:14757761	ERROR		C	glutamine synthetase		protein	taxon:		
+AraCyc	AT2G29690-MONOMER	AT2G29690.1		GO:0009536	PMID:1392592	ERROR		C	anthranilate synthase	AT2G29690.1|HANSYNAB|ASA2|AT2G29690.1	protein	taxon:		
+AraCyc	CPLXQT-50	A4-GADPH		GO:0009507	PMID:17031544	ERROR		C	A4-GADPH	A4-GADPH|glyceraldehyde-3-phosphate dehydrogenase (A4)	protein	taxon:		
+AraCyc	AT2G17265-MONOMER	Hsk		GO:0009507	PMID:15703056	ERROR		C	homoserine kinase	HSK|hsk|AT2G17265.1	protein	taxon:		
+AraCyc	AT1G08510-MONOMER	AT1G08510.1		GO:0009536	PMID:12061798	ERROR		C	palmitoleoyl-[acp] thioesterase / acyl-ACP thioesterase	AT1G08510.1|FATB|FatB|AT1G08510.1	protein	taxon:		
+AraCyc	CPLXQT-48	AB-GADPH		GO:0009507	PMID:17031544	ERROR		C	AB-GADPH	AB-GADPH|glyceraldehyde-3-phosphate dehydrogenase (A2B2)	protein	taxon:		
+AraCyc	AT5G11670-MONOMER	AT5G11670.1		GO:0005829	PMID:19725876	ERROR		C	NADP-malic enzyme	NADP-ME2|AT5G11670.1	protein	taxon:		
+AraCyc	AT2G37250-MONOMER	AT2G37250.1		GO:0009507	PMID:15618410	ERROR		C	adenylate kinase//nucleotide kinase	AT2G37250.1|PADK1|ADK|AtPADK1|AT2G37250.1	protein	taxon:		
+AraCyc	AT2G22250-MONOMER	AT2G22250.2		GO:0009536	PMID:16623902	ERROR		C	aspartate transaminase [multifunctional]	AT2G22250.2|MEE17|AAT|AT2G22250.2	protein	taxon:		
+AraCyc	AT3G25110-MONOMER	AT3G25110.1		GO:0009536	PMID:12061798	ERROR		C	acyl-ACP thioesterase	AT3G25110.1|FaTA|FatA|AT3G25110.1	protein	taxon:		
+AraCyc	AT2G21170-MONOMER	AT2G21170.1		GO:0009507	PMID:20097871	ERROR		C	triose-phosphate isomerase	AT2G21170.1|TIM|PDTPI|pdTPI|AT2G21170.1	protein	taxon:		
+AraCyc	CPLX-1305	OasA1		GO:0005829	PMID:10940562	ERROR		C	O-acetylserine (thiol) lyase	O-acetylserine (thiol) lyase|OAS-TL	protein	taxon:		
+AraCyc	AT5G47990-MONOMER	AT5G47990.1		GO:0005783	PMID:16618929	ERROR		C	thalian-diol desaturase	THAD|THAD1|AT5G47990.1	protein	taxon:		
+AraCyc	AT5G05980-MONOMER	AT5G05980.1		GO:0009570	PMID:11752472	ERROR		C	folylpolyglutamate synthase	AT5G05980.1|FPGS1|DFB|At5g05980|AtDFB|At-DHFS/FPGS2|AT5G05980.1	protein	taxon:		
+AraCyc	AT1G08250-MONOMER	AT1G08250.1		GO:0009507	PMID:19136569	ERROR		C	arogenate dehydratase	AT1G08250.1|ADT6|AT1G08250.1	protein	taxon:		
+AraCyc	AT5G03290-MONOMER	AT5G03290.1		GO:0005739	PMID:14671022	ERROR		C	NAD+-dependent isocitrate dehydrogenase catalytic subunit	IDH-V|AT5G03290.1	protein	taxon:		
+AraCyc	AT5G40870-MONOMER	AT5G40870.1		GO:0005737	PMID:17143579	ERROR		C	uridine kinase / uridine kinase/uracil phosphoribosyltransferase	AT5G40870.1|UKL1|UK/UPRT1|AtUK/UPRT1|AT5G40870.1	protein	taxon:		
+AraCyc	AT1G10070-MONOMER	AT1G10070.1		GO:0009507	PMID:12068099	ERROR		C	branched-chain amino acid aminotransferase	Atbcat-2|AT1G10070.1	protein	taxon:		
+AraCyc	AT3G07020-MONOMER	UGT80A2		GO:0005886	PMID:14506206	ERROR		C	3beta-hydroxy sterol glucosyltransferase	UGT80A2|AT3G07020.2	protein	taxon:		
+AraCyc	AT5G23020-MONOMER	AT5G23020.1		GO:0009507	PMID:17369439	ERROR		C	2-isopropylmalate synthase / methylthioalkylmalate synthase	MAM3|IMS2|AT5G23020.1	protein	taxon:		
+AraCyc	AT5G58860-MONOMER	CYP86A1		GO:0005783	PMID:18544608	ERROR		C	fatty acid omega-hydroxylase	CYP86A1|AT5G58860.1	protein	taxon:		
+AraCyc	AT5G14950-MONOMER	AT5G14950.1		GO:0005794	PMID:16460512	ERROR		C	alpha-mannosidase	AT5G14950.1|GMII|AT5G14950.1	protein	taxon:		
+AraCyc	AT4G15530-MONOMER	AT4G15530.5		GO:0005829	PMID:16915520	ERROR		C	pyruvate,orthophosphate dikinase	AT4G15530.5|PPDK|AT4G15530.5	protein	taxon:		
+AraCyc	AT4G24040-MONOMER	trehalase		GO:0005886	PMID:17673210	ERROR		C	trehalase	TRE1|AT4G24040.1	protein	taxon:		
+AraCyc	AT3G08900-MONOMER	AT3G08900.1		GO:0005829	PMID:21478444	ERROR		C	UDP-L-arabinose mutase	RGP3|AT3G08900.1	protein	taxon:		
+AraCyc	AT3G08900-MONOMER	AT3G08900.1		GO:0005794	PMID:21478444	ERROR		C	UDP-L-arabinose mutase	RGP3|AT3G08900.1	protein	taxon:		
+AraCyc	AT1G17050-MONOMER	AT1G17050.1		GO:0009507	PMID:15653808	ERROR		C	geranylgeranyl-diphosphate all-trans-nonaprenyl diphosphate synthase	SPS2|AT1G17050.1	protein	taxon:		
+AraCyc	CPLX-4583	AT1G66200.3		GO:0005829	PMID:14757761	ERROR		C	glutamine synthetase		protein	taxon:		
+AraCyc	CPLXQT-51	NAD+-dependent isocitrate dehydrogenase		GO:0005739	PMID:14671022	ERROR		C	NAD+-dependent isocitrate dehydrogenase	NAD+-dependent isocitrate dehydrogenase	protein	taxon:		
+AraCyc	AT1G23360-MONOMER	AT1G23360.1		GO:0009507	PMID:17082184	ERROR		C	2-phytyl-1,4-naphthoquinone methyltransferase	AT1G23360.1|MENG|AT1G23360.1	protein	taxon:		
+AraCyc	AT2G18950-MONOMER	AT2G18950.1		GO:0009507	PMID:11706191	ERROR		C	homogentisate phytyltransferase	HPT1|TPT1|AT2G18950.1	protein	taxon:		
+AraCyc	ATMG00160-MONOMER	ATMG00160.1		GO:0044455	PMID:15604729	ERROR		C	complex IV subunit 2	COX2|atMg00160|ATMG00160.1	protein	taxon:		
+AraCyc	AT5G54770-MONOMER	AT5G54770.1		GO:0009507	PMID:11575719	ERROR		C	thiazole synthase subunit	THI1|TZ|AT5G54770.1	protein	taxon:		
+AraCyc	AT5G54770-MONOMER	AT5G54770.1		GO:0005739	PMID:11575719	ERROR		C	thiazole synthase subunit	THI1|TZ|AT5G54770.1	protein	taxon:		
+AraCyc	AT5G35790-MONOMER	AT5G35790.1		GO:0009536	PMID:15634201	ERROR		C	glucose-6-phosphate 1-dehydrogenase	G6PD1|AT5G35790.1	protein	taxon:		
+AraCyc	AT1G16300-MONOMER	AT1G16300.1		GO:0009536	PMID:19675149	ERROR		C	glyceraldehyde-3-phosphate dehydrogenase	GapCp-2|AT1G16300.1	protein	taxon:		
+AraCyc	AT4G37830-MONOMER	AT4G37830.1		GO:0044455	PMID:15604729	ERROR		C	complex IV subunit 6a	COXVIa|at4g37830|AT4G37830.1	protein	taxon:		
+AraCyc	AT5G19200-MONOMER	AT5G19200.1		GO:0005789	PMID:21421810	ERROR		C	3-ketodihydrosphinganine reductase	TSC10B|AT5G19200.1	protein	taxon:		
+AraCyc	AT1G62940-MONOMER	AT1G62940.1		GO:0005737	PMID:19218397	ERROR		C	fatty acyl-CoA synthetase / acyl-CoA synthase	ACOS5|At1g62940|AT1G62940.1	protein	taxon:		
+AraCyc	AT1G02730-MONOMER	AT1G02730.1		GO:0005794	PMID:17892446	ERROR		C	non-crystalline beta-glucan synthase	AT1G02730.1|SOS6|CSLD5|AT1G02730.1	protein	taxon:		
+AraCyc	AT3G48990-MONOMER	AT3G48990		GO:0005829	PMID:22447686	ERROR		C	oxalate--CoA ligase	AAE3|AT3G48990	protein	taxon:	20180124	AraCyc
+AraCyc	AT5G66040-MONOMER	AT5G66040.1		GO:0009507	PMID:15181206	ERROR		C	sulfurtransferase	AT5G66040.1|STR16|AT5G66040.1	protein	taxon:		
+AraCyc	AT3G13110-MONOMER	SAT-1		GO:0005739	PMID:9830017	ERROR		C	serine O-acetyltransferase	SAT3|SAT-A|SAT-1|At3g13110|serat2;2|AT3G13110.1	protein	taxon:		
+AraCyc	AT1G51760-MONOMER	IAR3		GO:0005783	PMID:10072397	ERROR		C	indole-3-acetyl-ala hydrolase	iar3|AT1G51760.1	protein	taxon:		
+AraCyc	CPLX-6282	acetyl-CoA carboxylase		GO:0009536	PMID:12781773	ERROR		C	acetyl-CoA carboxylase		protein	taxon:		
+AraCyc	AT5G46180-MONOMER	AT5G46180.1		GO:0005739	PMID:18419821	ERROR		C	ornithine-delta-aminotransferase	&delta;-OAT|AT5G46180.1	protein	taxon:		
+AraCyc	AT2G30970-MONOMER	AT2G30970.1		GO:0005739	PMID:9535706	ERROR		C	aspartate transaminase	ASP1|AT2G30970.1	protein	taxon:		
+AraCyc	AT4G31990-MONOMER	AT4G31990.3		GO:0009536	PMID:9535706	ERROR		C	aspartate transaminase	ASP5|AT4G31990.3	protein	taxon:		
+AraCyc	AT1G10060-MONOMER	AT1G10060.2		GO:0005739	PMID:12068099	ERROR		C	branched-chain amino acid aminotransferase	Atbcat-1|AT1G10060.2	protein	taxon:		
+AraCyc	CPLXQT-2	branched-chain keto-acid dehydrogenase complex		GO:0005739	PMID:14764908	ERROR		C	branched-chain keto-acid dehydrogenase complex		protein	taxon:		
+AraCyc	CPLX-1325	OasB		GO:0009536	PMID:10940562	ERROR		C	O-acetylserine (thiol) lyase	OAS-TL	protein	taxon:		
+AraCyc	CPLX-4861	AT1G15710.1		GO:0009536	PMID:12354106	ERROR		C	arogenate dehydrogenase		protein	taxon:		
+AraCyc	AT3G56940-MONOMER	AT3G56940.1		GO:0042651	PMID:14673103	ERROR		C	magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase [multifunctional]	CHL27|AT3G56940.1	protein	taxon:		
+AraCyc	AT5G43280-MONOMER	AT5G43280.1		GO:0005777	PMID:16040662	ERROR		C	delta3,5-delta2,4-dienoyl-CoA isomerase	AT5G43280.1|DCI1|AT5G43280.1	protein	taxon:		
+AraCyc	AT5G40760-MONOMER	AT5G40760.1		GO:0005829	PMID:15634201	ERROR		C	glucose-6-phosphate 1-dehydrogenase	G6PD6|AT5G40760.1	protein	taxon:		
+AraCyc	AT3G02230-MONOMER	AT3G02230.1		GO:0005829	PMID:21478444	ERROR		C	UDP-arabinose mutase	RGP1|AT3G02230.1	protein	taxon:		
+AraCyc	AT3G02230-MONOMER	AT3G02230.1		GO:0005794	PMID:21478444	ERROR		C	UDP-arabinose mutase	RGP1|AT3G02230.1	protein	taxon:		
+AraCyc	AT1G35580-MONOMER	AT1G35580.1		GO:0005829	PMID:17220200	ERROR		C	alkaline/neutral invertase	CINV1|A/N-InvG|At1g35580|AT1G35580.1	protein	taxon:		
+AraCyc	AT1G35580-MONOMER	AT1G35580.1		GO:0016020	PMID:17220200	ERROR		C	alkaline/neutral invertase	CINV1|A/N-InvG|At1g35580|AT1G35580.1	protein	taxon:		
+AraCyc	AT1G35580-MONOMER	AT1G35580.1		GO:0005634	PMID:17220200	ERROR		C	alkaline/neutral invertase	CINV1|A/N-InvG|At1g35580|AT1G35580.1	protein	taxon:		
+AraCyc	AT2G17640-MONOMER	AT2G17640.1		GO:0005829	PMID:15579666	ERROR		C	serine O-acetyltransferase	SAT2|serat3;1|AT2G17640.1	protein	taxon:		
+AraCyc	AT2G01140-MONOMER	AT2G01140.1		GO:0005739	PMID:14671022	ERROR		C	fructose-bisphosphate aldolase	AT2G01140.1|PDE345|AT2G01140.1	protein	taxon:		
+AraCyc	AT2G01140-MONOMER	AT2G01140.1		GO:0009507	PMID:15028209	ERROR		C	fructose-bisphosphate aldolase	AT2G01140.1|PDE345|AT2G01140.1	protein	taxon:		
+AraCyc	AT2G26800-MONOMER	AT2G26800.2		GO:0005739	PMID:14764908	ERROR		C	hydroxymethylglutaryl-CoA lyase	AT2G26800.2|AT2G26800.2	protein	taxon:		
+#field 9 With/From errors: 1 errors
+AraCyc	AT5G20280-MONOMER	AT5G20280.1		GO:0005829	PMID:21166475	EXP	ERROR:   	C	sucrose-phosphate synthase	SPSA1|SPS1F|AT5G20280.1	protein	taxon:	20130314	AraCyc
+#field 15 no date/curator errors: 3 errors
+AraCyc	AT4G19690-MONOMER	AT4G19690.2		GO:0006826	PMID:10394943	IDA		P	iron regulated transporter	AT4G19690.2|IRT1|AT4G19690.2	protein	taxon:		
+AraCyc	AT4G19690-MONOMER	AT4G19690.2		GO:0015684	PMID:12084823	IEP		P	iron regulated transporter	AT4G19690.2|IRT1|AT4G19690.2	protein	taxon:		
+AraCyc	AT4G19690-MONOMER	AT4G19690.2		GO:0034755	PMID:12084823	IDA		P	iron regulated transporter	AT4G19690.2|IRT1|AT4G19690.2	protein	taxon:		

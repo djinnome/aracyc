@@ -1,0 +1,66 @@
+ID	PYR6
+NAME	PYR6
+PRODUCT-TYPE	P
+FUNCTION	uridylate kinase
+FUNCTION	cytidylate kinase
+//
+ID	POP3
+NAME	POP3
+PRODUCT-TYPE	P
+FUNCTION	adenosylmethionine-8-amino-7-oxononanoate transaminase
+//
+ID	MERI5
+NAME	MERI5
+PRODUCT-TYPE	P
+FUNCTION	xyloglucan:xyloglucosyl transferase
+//
+ID	KAT5
+NAME	KAT5
+PRODUCT-TYPE	P
+FUNCTION	acetyl-CoA C-acyltransferase
+//
+ID	OHP
+NAME	OHP
+PRODUCT-TYPE	P
+FUNCTION	oxidoreductase, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen
+//
+ID	APT3
+NAME	APT3
+PRODUCT-TYPE	P
+FUNCTION	adenine phosphoribosyltransferase
+//
+ID	GLD1
+NAME	GLD1
+PRODUCT-TYPE	P
+FUNCTION	glycine dehydrogenase (decarboxylating)
+//
+ID	PDS2
+NAME	PDS2
+PRODUCT-TYPE	P
+FUNCTION	dimethylallyltranstransferase
+//
+ID	GLD2
+NAME	GLD2
+PRODUCT-TYPE	P
+FUNCTION	glycine dehydrogenase (decarboxylating)
+//
+ID	ATD2
+NAME	ATD2
+PRODUCT-TYPE	P
+FUNCTION	amidophosphoribosyltransferase
+//
+ID	MAM2
+NAME	MAM2
+PRODUCT-TYPE	P
+FUNCTION	methylthioalkylmalate synthase
+//
+ID	PAI4
+NAME	PAI4
+PRODUCT-TYPE	P
+FUNCTION	phosphoribosylanthranilate isomerase
+//
+ID	AK2
+NAME	AK2
+PRODUCT-TYPE	P
+FUNCTION	aspartate kinase
+//

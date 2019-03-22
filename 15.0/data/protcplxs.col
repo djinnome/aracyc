@@ -1,0 +1,219 @@
+# 
+#
+# Authors:
+#    Bo Xue
+#    Pascal Schlapfer
+#    Seung Yon Rhee
+#    Peifen Zhang
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Arabidopsis thaliana col
+# Database: NIL
+# Version: 15.0
+# File Name: protcplxs.col
+# Date and time generated: November 27, 2018, 11:55:04
+#
+#		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29
+UNIQUE-ID	NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	SUBUNIT-COMPOSITION
+CPLX-4562	sterol methyltransferase	SMT2																													AT1G20330																													4*AT1G20330-MONOMER
+CPLX-1362	methionine adenosyltransferase	SAM-1																													AT1G02500																													1*AT1G02500-MONOMER
+CPLX-5684	&beta;-ureidopropionase	PYD3																													AT5G64370																													1*AT5G64370-MONOMER
+CPLXQT-4	threonine deaminase	AT3G10050.1																													AT3G10050																													4*AT3G10050-MONOMER
+CPLX-1305	O-acetylserine (thiol) lyase	oasA1																													AT4G14880																													2*AT4G14880-MONOMER
+CPLXQT-3	3-methylcrotonyl-CoA carboxylase	AT1G03090.2	AT4G34030.1																												AT1G03090	AT4G34030																												1*AT1G03090-MONOMER,1*AT4G34030-MONOMER
+CPLX1F-106	&beta;-ring hydroxylase	&beta;-OHase 1																													AT4G25700																													1*AT4G25700-MONOMER
+CPLX-1345	cystathionine beta-lyase / cystathionine &beta;-lyase	AT3G57050.1																													AT3G57050																													4*AT3G57050-MONOMER
+CPLX-4101	fatty acid &alpha;-dioxygenase																																																											
+CPLX-6461	UDP-D-glucuronate 4-epimerase																																																											
+CPLX-2304	CYP83A1 monooxygenase	AT4G13770.1																													AT4G13770																													1*AT4G13770-MONOMER
+CPLXQT-20	UDP-arabinose 4-epimerase / UDP-glucose 4-epimerase	UGE2																													AT4G23920																													2*AT4G23920-MONOMER
+CPLX-1424	phospholipase C	AtPLC2	AtPLC2																												G-1101	AT3G08510																												1*MONOMER-1621,1*AT3G08510-MONOMER
+RUBISCO4	RUBISCO	ATCG00490.1	rbcS2B																												ATCG00490	AT5G38420																												8*ATCG00490-MONOMER,8*AT5G38420-MONOMER
+RUBISCO3	RUBISCO	ATCG00490.1	rbcS3B																												ATCG00490	AT5G38410																												8*ATCG00490-MONOMER,8*AT5G38410-MONOMER
+CPLX-2302	CYP79F1 monooxygenase	AT1G16410.1																													AT1G16410																													1*AT1G16410-MONOMER
+CPLX-1762	cytoplasmic glycerol-3-phosphate acyltransferase	GPAT2																													G-11896																													2*MONOMER-2021
+RUBISCO2	RUBISCO	ATCG00490.1	rbcS1A																												ATCG00490	AT1G67090																												1*ATCG00490-MONOMER,1*AT1G67090-MONOMER
+CPLX-8562	purple acid phosphatase [multifunctional]	PAP12																													AT2G27190																													2*AT2G27190-MONOMER
+CPLX-7279	glyceraldehyde-3-phosphate dehydrogenase / CP12 complex / phosphoribulokinase	GapA-1	PRK	CP12-2																											AT3G26650	AT1G32060	AT3G62410																											8*AT3G26650-MONOMER,4*AT1G32060-MONOMER,2*AT3G62410-MONOMER
+CPLX-6121	succinic semialdehyde dehydrogenase	AT1G79440.1																													AT1G79440																													4*AT1G79440-MONOMER
+CPLXQT-19	UDP-arabinose 4-epimerase / UDP-glucose 4-epimerase	UGE5																													AT4G10960																													2*AT4G10960-MONOMER
+CPLXQT-9	chloroplastic ATPase complex	ATCG00120.1	ATCG00480.1	ATCG00470.1	AT4G09650.1	AT4G04640.1	AT1G15700.1	ATCG00140	ATCG00130	ATCG00150.1																					ATCG00120	ATCG00480	GQT-4090	GQT-4122	GQT-1336	GQT-686	GQT-5417	GQT-5416	GQT-3803																					1*ATCG00120-MONOMER,1*ATCG00480-MONOMER,1*GQT-4090-MONOMER,1*GQT-4122-MONOMER,1*GQT-1336-MONOMER,1*GQT-686-MONOMER,1*MONOMERQT-2575,1*MONOMERQT-2574,1*GQT-3803-MONOMER
+FAE4	fatty acid elongase complex	CER6	CER10	PAS2	KCR1																										AT1G68530	AT3G55360	AT5G10480	AT1G67730																										1*AT1G68530-MONOMER,1*AT3G55360-MONOMER,1*AT5G10480-MONOMER,1*AT1G67730-MONOMER
+CPLX-1523	CYP79B2 monooxygenase	CYP79B2																													AT4G39950																													1*AT4G39950-MONOMER
+CPLXQT-34	thioredoxin-disulfide reductase	NTRA																													AT2G17420																													2*AT2G17420-MONOMER
+CPLX-8458	glucosamine 6-phosphate N-acetyltransferase	GNA1																													AT5G15770																													2*AT5G15770-MONOMER
+AT3G07270-CPLX	GTP cyclohydrolase I	AT3G07270.1																													AT3G07270																													2*AT3G07270-MONOMER
+CPLX-7233	catalase-peroxidase / catalase	CAT3																													AT1G20620																													4*AT1G20620-MONOMER
+CPLX-2303	CYP79F2 monooxygenase	AT1G16400.1																													AT1G16400																													1*AT1G16400-MONOMER
+CPLXQT-1	branched-chain keto-acid dehydrogenase complex E1 subunit	AT5G09300.1	AT3G13450.1																												AT5G09300	AT3G13450																												1*AT5G09300-MONOMER,1*AT3G13450-MONOMER
+CPLX1F-19	9,9'-<i>dicis-</i>&zeta;-carotene desaturase [multifunctional]	ZDS																													AT3G04870																													1*AT3G04870-MONOMER
+CPLX-1902	omega-6-oleate desaturase	fad2																													AT3G12120																													1*AT3G12120-MONOMER
+CPLX-1284	APS reductase	APR3																													AT4G21990																													1*AT4G21990-MONOMER
+CPLX-4585	glutamine synthetase	GLN1;4																													AT5G16570																													8*AT5G16570-MONOMER
+AT1G43710-CPLX	serine decarboxylase	AT1G43710.1																													AT1G43710																													1*AT1G43710-MONOMER
+CPLX-7979	allantoate amidohydrolase	AtAAH																													AT4G20070																													2*AT4G20070-MONOMER
+CPLXQT-25	lysine decarboxylase / adenosylmethionine decarboxylase	SAMDC																													AT3G02470																													2*AT3G02470-MONOMER-BETA,2*AT3G02470-MONOMER
+CPLX-1906	(7Z,10Z)-hexadecadienoyl-lipid 13-desaturase [multifunctional]	fad8																													AT5G05580																													1*AT5G05580-MONOMER
+CPLX-1282	APS reductase	APR1																													AT4G04610																													1*AT4G04610-MONOMER
+CPLXQT-28	riboflavin synthase	AT2G20690.1																													AT2G20690																													3*AT2G20690-MONOMER
+CPLXQT-45	D-lactate dehydrogenase	GDH																													AT5G06580																													2*AT5G06580-MONOMER
+CPLX-43	GDP-mannose 4,6-dehydratase																																																											
+CPLX-7264	allene oxide cyclase	AT3G25770.1																													AT3G25770																													3*AT3G25770-MONOMER
+CPLX-1582	UDP-glucose pyrophosphorylase	AT3G03250.1																													AT3G03250																													1*AT3G03250-MONOMER
+CPLX-2082	glyoxylate aminotransferase	AGT1																													AGT1																													1*MONOMER-906
+CPLX-7064	acyl-CoA oxidase	AT3G51840.1																													AT3G51840																													4*AT3G51840-MONOMER
+CPLXQT-2	branched-chain keto-acid dehydrogenase complex	AT3G13450.1	AT5G09300.1	BCE2	LPD2																										AT3G13450	AT5G09300	AT3G06850	AT3G17240																										1*AT3G13450-MONOMER,1*AT5G09300-MONOMER,24*AT3G06850-MONOMER,1*AT3G17240-MONOMER
+CPLX-4646	glutamate dehydrogenase (NADH-dependent)	AT5G07440.1																													AT5G07440																													1*AT5G07440-MONOMER
+CPLX-847	malate dehydrogenase (NADP -linked)	mdh6																													G-61																													2*MONOMER-872
+CPLX-8103	pyridoxal 5'-phosphate synthase complex	PDX2	AT2G38230.1																												AT5G60540	AT2G38230																												1*AT5G60540-MONOMER,1*AT2G38230-MONOMER
+CPLXQT-23	2-isopropylmalate synthase	IPMS1																													AT1G18500																													2*AT1G18500-MONOMER
+CPLXQT-14	ribonucleoside-diphosphate reductase	AT3G27060.1																													AT3G27060																													2*AT3G27060-MONOMER
+CPLX-7073	oleoyl-CoA thioesterase [multifunctional]	AT1G01710.1																													AT1G01710																													4*AT1G01710-MONOMER
+CPLX1F-78	Mg chelatase	GUN5	CHLD	AT4G18480.1																											AT5G13630	AT1G08520	AT4G18480																											1*AT5G13630-MONOMER,1*AT1G08520-MONOMER,1*AT4G18480-MONOMER
+CPLXQT-7	chloroplastic ATPase complex F1	ATCG00150.1	ATCG00130	ATCG00140																											GQT-3803	GQT-5416	GQT-5417																											1*GQT-3803-MONOMER,1*MONOMERQT-2574,1*MONOMERQT-2575
+CPLX-1247	ATP sulfurylase	APS4																													AT5G43780																													1*AT5G43780-MONOMER
+CPLX-1904	&omega;-6 fatty acid desaturase / omega-6 fatty acid desaturase	fad6																													AT4G30950																													1*AT4G30950-MONOMER
+CPLX-7644	3-oxoacyl-[acyl-carrier-protein] synthase I, chloroplastic	AT5G46290.3																													AT5G46290																													2*AT5G46290-MONOMER
+CPLX-7034	3-deoxy-8-phosphooctulonate synthase	kdsA1																													AT1G79500																													2*AT1G79500-MONOMER
+CPLX-6985	xanthine dehydrogenase	AT4G34890.1																													AT4G34890																													2*AT4G34890-MONOMER
+CPLX-4861	arogenate dehydrogenase	AT1G15710.1																													AT1G15710																													1*AT1G15710-MONOMER
+CPLX-1382	allene oxide synthase	CYP74A1																													AT5G42650																													1*AT5G42650-MONOMER
+AT2G43360-CPLX	biotin synthase	bio2																													AT2G43360																													2*AT2G43360-MONOMER
+CPLXQT-30	gamma-glutamyl hydrolase	GGH1																													AT1G78660																													2*AT1G78660-MONOMER
+CPLX-1326	O-acetylserine (thiol) lyase	oasC																													AT3G59760																													2*AT3G59760-MONOMER
+CPLX1F-29	antheraxanthin epoxidase / zeaxanthin epoxidase	ABA1																													AT5G67030																													1*AT5G67030-MONOMER
+CPLX-7041	mevalonate diphosphate decarboxylase	MVD1																													AT2G38700																													2*AT2G38700-MONOMER
+CPLX-7089	ATP-citrate lyase	ACLA-1	ACLB-2																												AT1G10670	AT5G49460																												4*AT1G10670-MONOMER,4*AT5G49460-MONOMER
+CPLX-2242	agmatine iminohydrolase	AIH																													AT5G08170																													2*AT5G08170-MONOMER
+CPLX-7281	phosphoribulokinase	PRK																													AT1G32060																													2*AT1G32060-MONOMER
+CPLX-1324	serine acetyltransferase	SAT5																													AT5G56760																													4*AT5G56760-MONOMER
+CPLX-8032	adenylylsulfate sulfohydrolase / adenylylsulfate:phosophate adenylyltransferase	AT4G16566.1																													AT4G16566																													2*AT4G16566-MONOMER
+CPLX-7063	acyl-CoA oxidase	AT5G65110.1																													AT5G65110																													2*AT5G65110-MONOMER
+CPLXQT-16	UDP-arabinose 4-epimerase / UDP-glucose 4-epimerase	UGE4																													AT1G64440																													2*AT1G64440-MONOMER
+CPLX-1506	phosphatidylglycerolphosphate synthase	pgps1																													AT2G39290																													1*AT2G39290-MONOMER
+CPLXQT-41	thioredoxin-disulfide reductase	NTRC																													AT2G41680																													2*AT2G41680-MONOMER
+CPLX-7043	cplx-7043	FTA																													AT3G59380																													1*AT3G59380-MONOMER
+CPLX-1383	hydroperoxide lyase	HPL1	CYP74B2																												G-1082	AT4G15440																												1*MONOMER-1583,1*AT4G15440-MONOMER
+AT3G16785-CPLX	phospholipase D	PLD zeta																													AT3G16785																													1*AT3G16785-MONOMER
+CPLX-1967	debranching enzyme																																																											
+CPLX-7044	serine palmitoyltransferase	AT4G36480.1	AT5G23670.1																												AT4G36480	AT5G23670																												1*AT4G36480-MONOMER,1*AT5G23670-MONOMER
+CPLXQT-27	6,7-dimethyl-8-ribityllumazine synthase	AT2G44050.1																													AT2G44050																													60*AT2G44050-MONOMER
+CPLX-7196	sulfite oxidase	SOX																													AT3G01910																													2*AT3G01910-MONOMER
+CPLXQT-36	pyruvate kinase	PKp1	PKp2																												AT3G22960	AT5G52920																												4*AT3G22960-MONOMER,4*AT5G52920-MONOMER
+CPLX-1322	serine acetyltransferase	SAT3																													AT3G13110																													4*AT3G13110-MONOMER
+CPLXQT-35	selenocysteine lyase / cysteine desulfurase	NFS2																													AT1G08490																													2*AT1G08490-MONOMER
+CPLX-1524	indole-3-acetonitrile nitrile hydratase / indole-3-acetonitrile nitrilase	NIT2																													AT3G44300																													1*AT3G44300-MONOMER
+AT3G15730-CPLX	phospholipase D	PLD alpha																													AT3G15730																													1*AT3G15730-MONOMER
+CPLX-1082	UDP-sulfoquinovose synthase	SQD1																													AT4G33030																													2*AT4G33030-MONOMER
+CPLXQT-13	ribonucleoside-diphosphate reductase	AT5G40942.1																													AT5G40942																													2*AT5G40942-MONOMER
+CPLX-5263	complex I	AT5G37510.2	AT5G08530.1	AT2G20360.1	AT4G02580.1	AT1G79010.1	AT5G11770.1	AT5G67590.1	AT2G33220.1	AT3G03100.1	AT3G12260.1	AT2G02050.1	AT4G16450.1	AT2G47690.1	AT3G08610.1	AT5G52840.1	NAD9	AT1G49140.1	NAD7	NAD5c	NAD5b	NAD5a	NAD1b	NAD1a	AT5G66510.2	AT1G47260.1	AT3G48680.1	AT5G63510.2	AT3G57785.1	AT2G42310.1	AT2G27730.1	AT2G31490.1	AT4G20150.1	AT5G37510	AT5G08530	AT2G20360	AT4G02580	AT1G79010	AT5G11770	AT5G67590	AT2G33220	AT3G03100	AT3G12260	AT2G02050	AT4G16450	AT2G47690	AT3G08610	AT5G52840	ATMG00070	AT1G49140	ATMG00510	ATMG00060	ATMG00665	ATMG00513	ATMG00516	ATMG01120	AT5G66510	AT1G47260	AT3G48680	AT5G63510	AT3G57785	AT2G42310	AT2G27730	AT2G31490	AT4G20150	1*AT5G37510-MONOMER,1*AT5G08530-MONOMER,1*AT2G20360-MONOMER,1*AT4G02580-MONOMER,1*AT1G79010-MONOMER,1*AT5G11770-MONOMER,1*AT5G67590-MONOMER,1*AT2G33220-MONOMER,1*AT3G03100-MONOMER,1*AT3G12260-MONOMER,1*AT2G02050-MONOMER,1*AT4G16450-MONOMER,1*AT2G47690-MONOMER,1*AT3G08610-MONOMER,1*AT5G52840-MONOMER,1*ATMG00070-MONOMER,1*AT1G49140-MONOMER,1*ATMG00510-MONOMER,1*ATMG00513-MONOMER,1*ATMG01120-MONOMER,1*AT5G66510-MONOMER,1*AT1G47260-MONOMER,1*AT3G48680-MONOMER,1*AT5G63510-MONOMER,1*AT3G57785-MONOMER,1*AT2G42310-MONOMER,1*AT2G27730-MONOMER,1*AT2G31490-MONOMER,1*AT4G20150-MONOMER
+AT4G11850-CPLX	phospholipase D	PLD gamma																													AT4G11850																													1*AT4G11850-MONOMER
+CPLX-8561	purple acid phosphatase [multifunctional]	PAP26																													AT5G34850																													2*AT5G34850-MONOMER
+CPLXQT-8	chloroplastic ATPase complex F0	AT1G15700.1	AT4G04640.1	AT4G09650.1	ATCG00470.1	ATCG00480.1	ATCG00120.1																								GQT-686	GQT-1336	GQT-4122	GQT-4090	ATCG00480	ATCG00120																								1*GQT-686-MONOMER,1*GQT-1336-MONOMER,1*GQT-4122-MONOMER,1*GQT-4090-MONOMER,1*ATCG00480-MONOMER,1*ATCG00120-MONOMER
+CPLX-8617	deoxyuridine 5'-triphosphate nucleotidohydrolase	DUT																													AT3G46940																													3*AT3G46940-MONOMER
+CPLX-1246	ATP sulfurylase	APS3																													AT4G14680																													4*AT4G14680-MONOMER
+CPLXQT-55	isopropylmalate isomerase	AT2G43090.1	AT4G13430.1																												AT2G43090	AT4G13430																												1*AT2G43090-MONOMER,1*AT4G13430-MONOMER
+AT2G44160-CPLX	5,10-methylenetetrahydrofolate reductase	AT2G44160.1																													AT2G44160																													1*AT2G44160-MONOMER
+CPLX-4102	fatty acid &alpha;-dioxygenase	DOX1																													AT3G01420																													1*AT3G01420-MONOMER
+CPLXQT-32	glutathione-disulfide reductase	GR2																													AT3G54660																													2*AT3G54660-MONOMER
+CPLX-942	photosystem II	psbX	PPD6	PPD5	PPD4	PPD3	PPD2	PPD1	PsbTc	PsbA	PsbD	PsbW	PsbX	PsbY	PsbR	PsbO-1	PsbB	PsbC	PsbE	PsbH	PsbI	PsbP	PsbQ-1	PsbS							AT2G28800	AT3G56650	AT5G11450	AT1G77090	AT1G76450	AT2G28605	AT4G15510	ATCG00690	ATCG00020	ATCG00270	AT2G30570	AT2G06520	AT1G67740	AT1G79040	AT5G66570	ATCG00680	ATCG00280	ATCG00580	ATCG00710	ATCG00080	AT1G06680	AT4G21280	AT1G44575							1*AT2G28800-MONOMER,1*AT3G56650-MONOMER,1*AT5G11450-MONOMER,1*AT1G77090-MONOMER,1*AT1G76450-MONOMER,1*AT2G28605-MONOMER,1*AT4G15510-MONOMER,1*AT1G67740-MONOMER-Y2,1*ATCG00690-MONOMER,1*ATCG00020-MONOMER,1*ATCG00270-MONOMER,1*AT2G30570-MONOMER,1*AT2G06520-MONOMER,1*AT1G67740-MONOMER,1*AT1G79040-MONOMER,1*AT5G66570-MONOMER,1*ATCG00680-MONOMER,1*ATCG00280-MONOMER,1*ATCG00580-MONOMER,1*ATCG00710-MONOMER,1*ATCG00080-MONOMER,1*AT1G06680-MONOMER,1*AT4G21280-MONOMER,1*AT1G44575-MONOMER
+CPLXQT-17	UDP-arabinose 4-epimerase / UDP-glucose 4-epimerase	UGE1																													AT1G12780																													2*AT1G12780-MONOMER
+CPLX-1285	sulfite reductase	SIR																													AT5G04590																													1*AT5G04590-MONOMER
+CPLXQT-24	2-isopropylmalate synthase	IPMS2																													AT1G74040																													4*AT1G74040-MONOMER
+CPLX-8667	isoamylase	AT2G39930.1	ISA2																												AT2G39930	AT1G03310																												1*AT2G39930-MONOMER,1*AT1G03310-MONOMER
+CPLXQT-15	ADP-ribose hydrolase subunit [multifunctional]	NUDT7																													AT4G12720																													2*AT4G12720-MONOMER
+CPLX-7232	catalase-peroxidase / catalase	CAT2																													AT4G35090																													1*AT4G35090-MONOMER
+CPLX-7018	aspartate semialdehyde dehydrogenase	AT1G14810.1																													AT1G14810																													2*AT1G14810-MONOMER
+CPLX-7099	heptaldehyde:oxygen oxidoreductase [multifunctional]	AT3G43600.1																													AT3G43600																													1*AT3G43600-MONOMER
+CPLX-1425	phospholipase C	AtPLC1	AtPLC1																												G-1102	AT5G58670																												1*MONOMER-1622,1*AT5G58670-MONOMER
+CPLX-5323	complex IV	COX1	COX2	COX3	COXVb	COXVb	COXVc	COXVIa																							ATMG01360	ATMG00160	ATMG00730	AT1G80230	AT3G15640	AT2G47380	AT4G37830																							1*ATMG01360-MONOMER,1*ATMG00160-MONOMER,1*ATMG00730-MONOMER,1*AT1G80230-MONOMER,1*AT2G47380-MONOMER,1*AT4G37830-MONOMER
+CPLX-2043	GDP-D-mannose-3",5"-epimerase [multifunctional]	GME																													AT5G28840																													2*AT5G28840-MONOMER
+CPLX-8615	nucleoside-diphosphate kinase 1	AT4G09320.1																													AT4G09320																													6*AT4G09320-MONOMER
+CPLX-7191	molybdopterin synthase	Cnx6	Cnx7																												AT2G43760	AT4G10100																												2*AT2G43760-MONOMER,2*AT4G10100-MONOMER
+CPLXQT-12	ribonucleoside reductase, small subunit	AT3G23580.1																													AT3G23580																													2*AT3G23580-MONOMER
+CPLX-1642	N-carbamolyputrescine amidohydrolase	NLP1																													AT2G27450																													8*AT2G27450-MONOMER
+CPLX-2342	glucosinolate 2-oxoglutarate-dependent dioxygenase	AOP3																													AT4G03050																													1*AT4G03050-MONOMER
+CPLX-7037	UDP-D-apiose synthase	AXS1																													AT2G27860																													2*AT2G27860-MONOMER
+CPLXQT-40	thiazole synthase	THI1																													AT5G54770																													8*AT5G54770-MONOMER
+CPLX-4584	glutamine synthetase	GLN1;3																													AT3G17820																													8*AT3G17820-MONOMER
+CPLX-1363	1-aminocyclopropane-1-carboxylate synthase	ACS2																													AT1G01480																													1*AT1G01480-MONOMER
+CPLX-1323	serine acetyltransferase	SAT1																													AT1G55920																													4*AT1G55920-MONOMER
+CPLX-7062	OPC8 acyl-CoA oxidase / OPC6 acyl-CoA oxidase / acyl-CoA oxidase	ACX1																													AT4G16760																													2*AT4G16760-MONOMER
+CPLX-7097	cinnamaldehyde:oxygen oxidoreductase [multifunctional]	AAO3																													AT2G27150																													2*AT2G27150-MONOMER
+CPLX-7016	NAD<small><sup>+</sup></small> kinase / NADH kinase	NADK3																													AT1G78590																													2*AT1G78590-MONOMER
+CPLX-1905	(7Z,10Z)-hexadecadienoyl-lipid 13-desaturase [multifunctional]	fad7																													AT3G11170																													1*AT3G11170-MONOMER
+CPLXQT-21	UDP-arabinose 4-epimerase / UDP-glucose 4-epimerase	UGE3																													AT1G63180																													2*AT1G63180-MONOMER
+CPLX-2783	4-hydroxyphenylpyruvate dioxygenase	PDS1																													AT1G06570																													2*MONOMER-3245
+CPLX-1623	ADP-glucose pyrophosphorylase	ApS1	ApL1	ApL1	ApS1																										G-1243	G-1242	AT5G19220	AT5G48300																										1*MONOMER-1822,1*MONOMER-1823,2*AT5G19220-MONOMER,2*AT5G48300-MONOMER
+CPLX-1908	palmitoyl-lipid 7-desaturase [multifunctional]	fad5																													AT3G15850																													1*AT3G15850-MONOMER
+AT3G59970-CPLX	5,10-methylenetetrahydrofolate reductase	AT3G59970.3																													AT3G59970																													1*AT3G59970-MONOMER
+CPLX1F-15	15-<i>cis</i>-phytoene desaturase [multifunctional]	PDS																													AT4G14210																													1*AT4G14210-MONOMER
+CPLXQT-49	AB-GADPH	GapA-1	GapB																												AT3G26650	AT1G42970																												2*AT3G26650-MONOMER,2*AT1G42970-MONOMER
+CPLX-7646	3-oxoacyl-[acyl-carrier-protein] reductase, chloroplastic	AT1G24360.1																													AT1G24360																													4*AT1G24360-MONOMER
+CPLX-7198	nitrate reductase	NIA2																													AT1G37130																													2*AT1G37130-MONOMER
+CPLXQT-52	NAD-dependent malic enzyme	NAD-ME1																													AT2G13560																													2*AT2G13560-MONOMER
+CPLX-5321	complex III	AT2G07727.1	AT5G13440.1																												AT2G07727	AT5G13440																												1*MONOMER-8804,1*AT5G13440-MONOMER
+CPLX-5301	complex II	SDH1-1	SDH2-2	SDH3-2	SDH4	SDH5	SDH6	SDH7A	SDH8																						AT5G66760	AT5G40650	AT4G32210	AT2G46505	AT1G47420	AT1G08480	AT3G47833	AT2G46390																						1*AT5G66760-MONOMER,1*AT5G40650-MONOMER,1*AT4G32210-MONOMER,1*AT2G46505-MONOMER,1*AT1G47420-MONOMER,1*AT1G08480-MONOMER,1*AT3G47833-MONOMER,1*AT2G46390-MONOMER
+CPLX-7280	A4-GADPH	GapA-1																													AT3G26650																													4*AT3G26650-MONOMER
+CPLXQT-26	pyridoxal kinase	SOS4																													AT5G37850																													2*AT5G37850-MONOMER
+CPLX-2301	methylthioalkylmalate synthase	MAM1																													AT5G23010																													1*AT5G23010-MONOMER
+CPLXQT-51	NAD+-dependent isocitrate dehydrogenase	IDH-V	IDH-II																												AT5G03290	AT2G17130																												1*AT5G03290-MONOMER,1*AT2G17130-MONOMER
+CPLX-1426	phospholipase A	AtPLA IVA																													AT4G37070																													1*AT4G37070-MONOMER
+CPLX-7645	3-ketoacyl-[acp] synthase 2, chloroplastic	KASII																													G-10790																													2*MONOMER-14118
+AT2G42010-CPLX	phospholipase D	PLD beta																													AT2G42010																													1*AT2G42010-MONOMER
+CPLXQT-6	ribonucleoside-diphosphate reductase	AT3G23580.1	AT2G21790.1																												AT3G23580	AT2G21790																												2*AT3G23580-MONOMER,2*AT2G21790-MONOMER
+AT4G36400-MONOMER	D-2-hydroxyglutarate dehydrogenase	AT4G36400.1																													AT4G36400																													2*MONOMERQT-4168
+CPLX-1821	acyl-CoA:diacylglycerol acyltransferase	TAG1																													AT2G19450																													1*AT2G19450-MONOMER
+CPLX-17408	malate dehydrogenase (NADP)																																																											
+CPLX1F-26	antheraxanthin deepoxidase / violaxanthin deepoxidase	NPQ1																													AT1G08550																													1*AT1G08550-MONOMER
+CPLX1F-80	Mg chelatase	GUN5	CHLD	AT5G45930.1																											AT5G13630	AT1G08520	AT5G45930																											1*AT5G13630-MONOMER,1*AT1G08520-MONOMER,1*AT5G45930-MONOMER
+CPLX-8288	tryptophan synthase	TSBType2																													AT5G38530																													2*AT5G38530-MONOMER
+CPLXQT-53	NAD-dependent malic enzyme	NAD-ME2																													AT4G00570																													2*AT4G00570-MONOMER
+CPLX-1527	geranial:oxygen oxidoreductase [multifunctional]	AO1																													AT5G20960																													2*AT5G20960-MONOMER
+CPLX-6521	UDP-glucuronate decarboxylase																																																											
+CPLXQT-31	folylpolyglutamate gamma-glutamyl hydrolase	GGH2																													AT1G78680																													2*AT1G78680-MONOMER
+CPLX-7017	NADH kinase / NAD kinase	NADK1																													AT3G21070																													2*AT3G21070-MONOMER
+CPLX-1427	phospholipase A<small><sub>2</sub></small / phospholipase A1	dad1																													AT2G44810																													1*AT2G44810-MONOMER
+CPLXQT-50	A4-GADPH	GapA-2																													AT1G12900																													4*AT1G12900-MONOMER
+CPLX-1525	indole-3-acetonitrile nitrile hydratase / indole-3-acetonitrile nitrilase	NIT1																													AT3G44310																													1*AT3G44310-MONOMER
+CPLX-8950	cplx-8950	GLN2																													AT5G35630																													1*AT5G35630-MONOMER
+AT4G35790-CPLX	phospholipase D	PLD delta																													AT4G35790																													1*AT4G35790-MONOMER
+CPLXQT-5	adenylosuccinate synthase	AT3G57610.1																													AT3G57610																													1*AT3G57610-MONOMER
+CPLX-7084	UDP-glucose 4-epimerase	UGE1																													AT1G12780																													2*AT1G12780-MONOMER
+CPLXQT-48	AB-GADPH	GapA-2	GapB																												AT1G12900	AT1G42970																												2*AT1G12900-MONOMER,2*AT1G42970-MONOMER
+CPLX-1526	indole-3-acetonitrile nitrile hydratase / indole-3-acetonitrile nitrilase	NIT3																													AT3G44320																													1*AT3G44320-MONOMER
+CPLXQT-29	4-aminobutyrate:pyruvate transaminase	POP2																													AT3G22200																													2*AT3G22200-MONOMER
+CPLX-7907	7,8-dihydroneopterin aldolase [multifunctional]	AT3G11750.1																													AT3G11750																													8*AT3G11750-MONOMER
+CPLX-2281	CYP79B3 monooxygenase	CYP79B3																													AT2G22330																													1*AT2G22330-MONOMER
+CPLX-1903	linolenate &Delta;15 desaturase / linoleate desaturase	fad3																													AT2G29980																													1*AT2G29980-MONOMER
+CPLX-985	photosystem I	psaD1	psaB	psaA	psaC	psaE2	PsaN	PsaL	PsaH1	PsaF	PsaK	PsaP	PsaB	PsaA	PsaD-1	PsaC	PsaE-1	PsaN	PsaL	PsaH-1	PsaF	PsaK	PsaG	PsaO							G-670	G-672	G-671	G-669	G-668	G-667	G-666	G-665	G-664	G-663	AT2G46820	ATCG00340	ATCG00350	AT4G02770	ATCG01060	AT4G28750	AT5G64040	AT4G12800	AT3G16140	AT1G31330	AT1G30380	AT1G55670	AT1G08380							1*MONOMER-1098,1*MONOMER-1100,1*MONOMER-1099,1*MONOMER-1097,1*MONOMER-1096,1*MONOMER-1095,1*MONOMER-1094,1*MONOMER-1093,1*MONOMER-1092,1*MONOMER-1091,1*AT2G46820-MONOMER,1*ATCG00340-MONOMER,1*ATCG00350-MONOMER,1*AT4G02770-MONOMER,1*ATCG01060-MONOMER,1*AT4G28750-MONOMER,1*AT5G64040-MONOMER,1*AT4G12800-MONOMER,1*AT3G16140-MONOMER,1*AT1G31330-MONOMER,1*AT1G30380-MONOMER,1*AT1G55670-MONOMER,1*AT1G08380-MONOMER
+CPLX-8304	cyanase	AT3G23490.1																													AT3G23490																													10*AT3G23490-MONOMER
+CPLX-4582	glutamine synthetase	GLN1;1																													AT5G37600																													8*AT5G37600-MONOMER
+CPLX-822	glycine decarboxylase	AT2G35120.1																													AT2G35120																													1*AT2G35120-MONOMER
+CPLX-1325	O-acetylserine (thiol) lyase	oasB																													AT2G43750																													2*AT2G43750-MONOMER
+CPLX-7042	cplx-7042	FTA	ERA1																												AT3G59380	AT5G40280																												1*AT3G59380-MONOMER,1*AT5G40280-MONOMER
+CPLX-1283	APS reductase	APR2																													AT1G62180																													1*AT1G62180-MONOMER
+CPLX-7231	catalase-peroxidase / catalase	CAT1																													AT1G20630																													1*AT1G20630-MONOMER
+CPLX-1364	1-aminocyclopropane-1-carboxylate synthase	ACS4																													AT2G22810																													1*AT2G22810-MONOMER
+CPLXQT-54	NAD-dependent malic enzyme	NAD-ME2	NAD-ME1																												AT4G00570	AT2G13560																												1*AT4G00570-MONOMER,1*AT2G13560-MONOMER
+CPLX-7214	glutathione synthetase	AT5G27380.1																													AT5G27380																													2*AT5G27380-MONOMER
+CPLX-805	RUBISCO	ATCG00490.1	rbcS1B																												ATCG00490	AT5G38430																												8*ATCG00490-MONOMER,8*AT5G38430-MONOMER
+CPLXQT-33	thioredoxin-disulfide reductase	NTRB																													AT4G35460																													2*AT4G35460-MONOMER
+CPLX-8106	deoxycytidine deaminase / cytidine deaminase	AT2G19570.1																													AT2G19570																													2*AT2G19570-MONOMER
+CPLXQT-11	ribonucleodide reductase, large subunit	AT2G21790.1																													AT2G21790																													2*AT2G21790-MONOMER
+CPLX-7197	nitrate reductase	NIA1																													AT1G77760																													2*AT1G77760-MONOMER
+CPLX-6282	acetyl-CoA carboxylase	ATCG00500.1	AT2G38040.1	AT5G35360.3	AT5G16390.1																										ATCG00500	AT2G38040	AT5G35360	AT5G16390																										1*ATCG00500-MONOMER,1*AT2G38040-MONOMER,1*AT5G35360-MONOMER,1*AT5G16390-MONOMER
+CPLX-4645	glutamate dehydrogenase (NADH-dependent)	AT5G18170.1																													AT5G18170																													1*AT5G18170-MONOMER
+CPLX-7518	S-allantoin synthase	AT5G58220.1																													AT5G58220																													4*AT5G58220-MONOMER
+CPLX-2282	CYP83B1 monooxygenase	AT4G31500.1																													AT4G31500																													1*AT4G31500-MONOMER
+GLYCINEDECARBOXYLASE	glycine decarboxylase	AT2G35370.1																													AT2G35370																													1*AT2G35370-MONOMER
+CPLX-8350	dolichol phosphate mannose synthase	DPMS3	DPMS2	AT1G20575.1																											AT1G48140	AT1G74340	AT1G20575																											1*AT1G48140-MONOMER,1*AT1G74340-MONOMER,1*AT1G20575-MONOMER
+CPLXQT-47	carbamoylphosphate synthase	AT1G29900.1	AT3G27740.1																												AT1G29900	AT3G27740																												1*AT1G29900-MONOMER,1*AT3G27740-MONOMER
+CPLX-6221	S-adenosyl-L-methionine:benzoic acid-salicylic acid carboxymethyltransferase	AtBSMT1																													AT3G11480																													2*AT3G11480-MONOMER
+CPLXQT-37	pyruvate kinase	PKp1	PKp3																												AT3G22960	AT1G32440																												4*AT3G22960-MONOMER,4*AT1G32440-MONOMER
+CPLX-1505	phosphatidylinositol synthase	AtPIS1																													AT1G68000																													1*AT1G68000-MONOMER
+CPLX-2343	glucosinolate 2-oxoglutarate-dependent dioxygenase	AOP2																													AT4G03060																													1*AT4G03060-MONOMER
+CPLX-4583	glutamine synthetase	GLN1;2																													AT1G66200																													8*AT1G66200-MONOMER
+CPLX-1344	cystathionine &gamma;-synthase / selenocystathione synthase	AT3G01120.1																													AT3G01120																													4*AT3G01120-MONOMER

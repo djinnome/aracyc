@@ -1,0 +1,96 @@
+# 
+#
+# Authors:
+#    Bo Xue
+#    Pascal Schlapfer
+#    Seung Yon Rhee
+#    Peifen Zhang
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Arabidopsis thaliana col
+# Database: NIL
+# Version: 15.0
+# File Name: rnas.dat
+# Date and time generated: November 27, 2018, 11:54:57
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ABBREV-NAME
+#    ACCESSION-1
+#    ANTICODON
+#    AROMATIC-RINGS
+#    ATOM-CHARGES
+#    ATOM-ISOTOPES
+#    CHARGE
+#    CHEMICAL-FORMULA
+#    CITATIONS
+#    CODING-SEGMENTS
+#    CODONS
+#    COFACTORS-OF
+#    COMMENT
+#    COMPONENT-OF
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    EXPRESSION-MECHANISM
+#    FAST-EQUILIBRATING-INSTANCES?
+#    GENE
+#    GO-TERMS
+#    HAS-NO-STRUCTURE?
+#    HIDE-SLOT?
+#    IN-MIXTURE
+#    INCHI
+#    INCHI-KEY
+#    INSTANCE-NAME-TEMPLATE
+#    INTERNALS-OF-GROUP
+#    LOCATIONS
+#    MEMBER-SORT-FN
+#    MODIFIED-FORM
+#    MOLECULAR-WEIGHT
+#    MONOISOTOPIC-MW
+#    N+1-NAME
+#    N-1-NAME
+#    N-NAME
+#    NON-STANDARD-INCHI
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PKA1
+#    PKA2
+#    PKA3
+#    PROSTHETIC-GROUPS-OF
+#    RADICAL-ATOMS
+#    REGULATED-BY
+#    REGULATES
+#    SMILES
+#    SPECIES
+#    SPLICE-FORM-INTRONS
+#    STRUCTURE-BONDS
+#    SUPERATOMS
+#    SYNONYMS
+#    SYSTEMATIC-NAME
+#    TAUTOMERS
+#    UNMODIFIED-FORM
+#
+UNIQUE-ID - GLUTAMINYL-TRNA-GLN
+TYPES - Charged-GLN-tRNAs
+COMMON-NAME - glutaminyl-tRNA-gln
+DBLINKS - (LIGAND-CPD "C02282" NIL |sreddy| 3299523527 NIL NIL)
+SYNONYMS - glutaminyl-tRNA
+SYNONYMS - L-glutaminyl-tRNA(gln)
+SYNONYMS - gln-tRNA(gln)
+//
+UNIQUE-ID - ASPARAGINYL-TRNAASN
+TYPES - Charged-ASN-tRNAs
+COMMON-NAME - asparaginyl-tRNA<sup>Asn</sup>
+SYNONYMS - L-asparaginyl-tRNA(asn)
+SYNONYMS - asn-tRNA(asn)
+//
+UNIQUE-ID - TRNA
+TYPES - tRNAs
+COMMON-NAME - TRNA
+//

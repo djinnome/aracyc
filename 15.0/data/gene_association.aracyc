@@ -1,0 +1,41 @@
+AraCyc	MONOMER-AT5G03080	AT5G03080.1		GO:0009507	PMID:17652095	IDA		C	plastidic phosphatidic acid phosphatase	LPP&gamma;|LPPgamma|AT5G03080.1	protein	taxon:	20120406	AraCyc
+AraCyc	AT2G40690-MONOMER	AT2G40690.1		GO:0031969	PMID:20061580	IDA		C	glycerol-3-phosphate dehydrogenase (NAD+)	SFD1|GLY1|AT2G40690.1	protein	taxon:	20120402	AraCyc
+AraCyc	AT5G48950-MONOMER	AT5G48950.1		GO:0005777	PMID:22372525	IDA		C	DHNA-CoA thioesterase	DHNAT2|AT5G48950.1	protein	taxon:	20120420	AraCyc
+AraCyc	MONOMER-17456	ornithine carbamoyltransferase		GO:0009507	PMID:8278506	EXP		C	ornithine carbamoyltransferase		protein	taxon:	20120605	AraCyc
+AraCyc	MONOMER-AT3G50920	AT3G50920.1		GO:0009507	PMID:17652095	IDA		C	plastidic phosphatidic acid phosphatase	LPP&epsilon;1|LPPepsilon1|AT3G50920.1	protein	taxon:	20120406	AraCyc
+AraCyc	AT3G55030-MONOMER	AT3G55030.1		GO:0005792	PMID:11741606	IDA		ERROR	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase//CDP-alcohol phosphatidyltransferase	pgps2|AT3G55030.1	protein	taxon:	20120404	AraCyc
+AraCyc	AT3G60620-MONOMER	AT3G60620.1		GO:0042170	PMID:20442275	IDA		C	phosphatidate cytidylyltransferase	CDS5|AT3G60620.1	protein	taxon:	20120403	AraCyc
+AraCyc	AT3G60620-MONOMER	AT3G60620.1		GO:0009536	PMID:20442275	IDA		C	phosphatidate cytidylyltransferase	CDS5|AT3G60620.1	protein	taxon:	20120403	AraCyc
+AraCyc	MONOMER-17407	malate-oxaloacetate antiporter / oxaloacetate-malate antiporter		GO:0031969	PMID:11945379	IDA		C	malate-oxaloacetate antiporter / oxaloacetate-malate antiporter		protein	taxon:	20120510	AraCyc
+AraCyc	AT1G74030-MONOMER	AT1G74030.1		GO:0009536	PMID:19223001	IDA		C	phosphopyruvate hydratase	AT1G74030.1|ENO1|AT1G74030.1	protein	taxon:	20121210	AraCyc
+AraCyc	AT3G01180-MONOMER	AT3G01180.1		GO:0009570	PMID:23393426	IC		C	soluble starch synthase II	SSII|SS2|AT3G01180.1	protein	taxon:	20130314	AraCyc
+AraCyc	AT3G01180-MONOMER	AT3G01180.1		GO:0009507	PMID:18431481	IDA		C	soluble starch synthase II	SSII|SS2|AT3G01180.1	protein	taxon:	20130314	AraCyc
+AraCyc	AT2G45150-MONOMER	AT2G45150.1		GO:0042170	PMID:20442275	IDA		C	phosphatidate cytidylyltransferase	CDS4|AT2G45150.1	protein	taxon:	20120403	AraCyc
+AraCyc	AT2G45150-MONOMER	AT2G45150.1		GO:0009536	PMID:20442275	IDA		C	phosphatidate cytidylyltransferase	CDS4|AT2G45150.1	protein	taxon:	20120403	AraCyc
+AraCyc	AT1G06520-MONOMER	AT1G06520.1		GO:0005739	PMID:12897259	IDA		C	glycerol-3-phosphate O-oleoyltransferase [multifunctional]	GPAT1|AT1G06520.1	protein	taxon:	20120326	AraCyc
+AraCyc	AT1G06520-MONOMER	AT1G06520.1		GO:0005789	PMID:12897259	TAS		C	glycerol-3-phosphate O-oleoyltransferase [multifunctional]	GPAT1|AT1G06520.1	protein	taxon:	20120326	AraCyc
+AraCyc	AT1G06520-MONOMER	AT1G06520.1		GO:0005792	PMID:12897259	IDA		ERROR	glycerol-3-phosphate O-oleoyltransferase [multifunctional]	GPAT1|AT1G06520.1	protein	taxon:	20120326	AraCyc
+AraCyc	AT5G40610-MONOMER	AT5G40610.1		GO:0009507	AraCyc_REF:WEI01	IDA		C	glycerol-3-phosphate dehydrogenase (NAD+)	GPDHp|AT5G40610.1	protein	taxon:	20120404	AraCyc
+AraCyc	AT5G40610-MONOMER	AT5G40610.1		GO:0009536	AraCyc_REF:WEI01	IDA		C	glycerol-3-phosphate dehydrogenase (NAD+)	GPDHp|AT5G40610.1	protein	taxon:	20120404	AraCyc
+AraCyc	AT3G10370-MONOMER	AT3G10370.1		GO:0005739	PMID:14671022	IDA		C	glycerol-3-phosphate dehydrogenase	SDP6|AT3G10370.1	protein	taxon:	20120404	AraCyc
+AraCyc	AT1G03310-MONOMER	isoamylase non-catalytic subunit		GO:0009507	PMID:18431481	EXP		C	isoamylase non-catalytic subunit	ISA2|DBE1	protein	taxon:	20130319	AraCyc
+AraCyc	AT1G79900-MONOMER	AT1G79900.1		GO:0005739	PMID:20172963	EXP		C	carnitine-acylcarnitine translocase [multifunctional]	AT1G79900.1|AT1G79900.1	protein	taxon:	20120605	AraCyc
+AraCyc	AT1G48320-MONOMER	AT1G48320.1		GO:0005777	PMID:19329564	IDA		C	DHNA-CoA thioesterase	DHNAT1|AT1G48320.1	protein	taxon:	20120420	AraCyc
+AraCyc	CPLX-1506	PGPS1		GO:0009507	PMID:12609031	IDA		C	phosphatidylglycerolphosphate synthase	phosphatidylglycerolphosphate synthase|CDP-1-oleoyl-2-palmitoyl-glycerol glycerol-3-phosphate 3-phosphatidyltransferase	protein	taxon:	20120404	AraCyc
+AraCyc	CPLX-1506	PGPS1		GO:0005739	PMID:12609031	IDA		C	phosphatidylglycerolphosphate synthase	phosphatidylglycerolphosphate synthase|CDP-1-oleoyl-2-palmitoyl-glycerol glycerol-3-phosphate 3-phosphatidyltransferase	protein	taxon:	20120404	AraCyc
+AraCyc	MONOMER-17454	ornithine carbamoyltransferase		GO:0005739	PMID:15273293	EXP		C	ornithine carbamoyltransferase		protein	taxon:	20120605	AraCyc
+AraCyc	AT4G36400-MONOMER	AT4G36400.1		GO:0005739	PMID:21296880	EXP		C	D-2-hydroxyglutarate dehydrogenase	D-2-hydroxyglutarate dehydrogenase	protein	taxon:	20150601	AraCyc
+AraCyc	AT4G18240-MONOMER	AT4G18240.1		GO:0009507	PMID:18431481	IDA		C	soluble starch synthase IV	SSIV|SS4|AT4G18240.1	protein	taxon:	20130314	AraCyc
+AraCyc	AT4G18240-MONOMER	AT4G18240.1		GO:0009570	PMID:23393426	IC		C	soluble starch synthase IV	SSIV|SS4|AT4G18240.1	protein	taxon:	20130314	AraCyc
+AraCyc	MONOMER-17457	carbamate kinase		GO:0009507	PMID:8278506	EXP		C	carbamate kinase		protein	taxon:	20120605	AraCyc
+AraCyc	AT1G32200-MONOMER	AT1G32200.1		GO:0009570	PMID:16774646	IDA		C	glycerol-3-phosphate O-acyltransferase	ATS1|ACT1|AT1G32200.1	protein	taxon:	20120326	AraCyc
+AraCyc	AT1G11720-MONOMER	SSIII		GO:0009507	PMID:18431481	IDA		C	soluble starch synthase III	SSIII|SS3|AT1G11720.2	protein	taxon:	20130314	AraCyc
+AraCyc	AT1G11720-MONOMER	SSIII		GO:0009570	PMID:23393426	IC		C	soluble starch synthase III	SSIII|SS3|AT1G11720.2	protein	taxon:	20130314	AraCyc
+AraCyc	MONOMER-AT5G66450	AT5G66450.1		GO:0009507	PMID:17652095	IDA		C	plastidic phosphatidic acid phosphatase	LPP&epsilon;2|LPPepsilon2|AT5G66450.1	protein	taxon:	20120409	AraCyc
+AraCyc	AT2G30140-MONOMER	AT2G30140.1		GO:0005737	PMID:22404750	IDA		C	UDP-glycosyltransferase//gtransferase, transferring hexosyl groups	UGT87A2|AT2G30140.1	protein	taxon:	20120426	AraCyc
+AraCyc	AT2G30140-MONOMER	AT2G30140.1		GO:0005634	PMID:22404750	IDA		C	UDP-glycosyltransferase//gtransferase, transferring hexosyl groups	UGT87A2|AT2G30140.1	protein	taxon:	20120426	AraCyc
+AraCyc	MONOMER-17406	oxaloacetate transporter		GO:0031969	AraCyc_REF:hatch84	IDA		C	oxaloacetate transporter		protein	taxon:	20120510	AraCyc
+AraCyc	AT3G09260-MONOMER	AT3G09260.1		GO:0010168	PMID:12581307	IDA		C	scopolin beta-glucosidase	AT3G09260.1|PYK10|PSR3.1|LEB|BGLU23|AT3G09260.1	protein	taxon:	20130130	AraCyc
+AraCyc	AT3G09260-MONOMER	AT3G09260.1		GO:0005783	PMID:22923678	IDA		C	scopolin beta-glucosidase	AT3G09260.1|PYK10|PSR3.1|LEB|BGLU23|AT3G09260.1	protein	taxon:	20130130	AraCyc
+AraCyc	AT2G02390-MONOMER	AT2G02390.3		GO:0005829	PMID:21166475	EXP		C	maleylacetoacetate isomerase	AT2G02390.3|GST18|GSTZ1|MAAI|AT2G02390.3	protein	taxon:	20130906	AraCyc
+AraCyc	AT1G80460-MONOMER	AT1G80460.1		GO:0005829	PMID:21441932	IDA		C	glycerol kinase//carbohydrate kinase	AT1G80460.1|GLI1|NHO1|AT1G80460.1	protein	taxon:	20120404	AraCyc
